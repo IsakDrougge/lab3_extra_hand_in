@@ -1,0 +1,2902 @@
+<svg xmlns:ns0="http://www.w3.org/1999/xlink" width="864pt" height="692pt" viewBox="0.00 0.00 864.00 691.62">
+<g id="graph0" class="graph" transform="scale(0.692308 0.692308) rotate(0) translate(4 995)">
+<polygon fill="white" stroke="none" points="-4,4 -4,-995 1244,-995 1244,4 -4,4" />
+
+<g id="node1" class="node">
+<title>&#214;stra Sjukhuset</title>
+<g id="a_node1"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007880000" ns0:title="&#214;stra Sjukhuset" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007880000" title="&#214;stra Sjukhuset">
+<polygon fill="white" stroke="black" points="1239.68,-584.68 1172.68,-584.68 1172.68,-568.43 1239.68,-568.43 1239.68,-584.68" />
+<text text-anchor="middle" x="1206.18" y="-573.08" font-family="Times,serif" font-size="8.00">&#214;stra Sjukhuset</text>
+</a>
+</g>
+</g>
+
+<g id="node2" class="node">
+<title>Tingvallsv&#228;gen</title>
+<g id="a_node2"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006775000" ns0:title="Tingvallsv&#228;gen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006775000" title="Tingvallsv&#228;gen">
+<polygon fill="white" stroke="black" points="1197.86,-612.37 1133.86,-612.37 1133.86,-596.12 1197.86,-596.12 1197.86,-612.37" />
+<text text-anchor="middle" x="1165.86" y="-600.77" font-family="Times,serif" font-size="8.00">Tingvallsv&#228;gen</text>
+</a>
+</g>
+</g>
+
+<g id="edge1" class="edge">
+<title>&#214;stra Sjukhuset--Tingvallsv&#228;gen</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M1181.73,-585.16C1176.79,-588.6 1172.19,-592.46 1169.15,-595.91" />
+</g>
+
+<g id="edge104" class="edge">
+<title>&#214;stra Sjukhuset--Tingvallsv&#228;gen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1202.75,-585.05C1199.65,-588.52 1195.03,-592.38 1190.08,-595.8" />
+</g>
+
+<g id="node3" class="node">
+<title>Kaggeledstorget</title>
+<g id="a_node3"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003670000" ns0:title="Kaggeledstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003670000" title="Kaggeledstorget">
+<polygon fill="white" stroke="black" points="1121.08,-593.1 1053.33,-593.1 1053.33,-576.85 1121.08,-576.85 1121.08,-593.1" />
+<text text-anchor="middle" x="1087.2" y="-581.5" font-family="Times,serif" font-size="8.00">Kaggeledstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge2" class="edge">
+<title>Tingvallsv&#228;gen--Kaggeledstorget</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M1153.06,-595.64C1144.42,-592.29 1132.59,-588.93 1121.34,-586.48" />
+</g>
+
+<g id="edge105" class="edge">
+<title>Tingvallsv&#228;gen--Kaggeledstorget</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1133.65,-603.15C1121.82,-600.67 1109.11,-597.11 1099.97,-593.57" />
+</g>
+
+<g id="node4" class="node">
+<title>&#196;tteh&#246;gsgatan</title>
+<g id="a_node4"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007750000" ns0:title="&#196;tteh&#246;gsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007750000" title="&#196;tteh&#246;gsgatan">
+<polygon fill="white" stroke="black" points="1155.76,-568.83 1094.01,-568.83 1094.01,-552.58 1155.76,-552.58 1155.76,-568.83" />
+<text text-anchor="middle" x="1124.89" y="-557.23" font-family="Times,serif" font-size="8.00">&#196;tteh&#246;gsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge3" class="edge">
+<title>Kaggeledstorget--&#196;tteh&#246;gsgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M1112.74,-576.46C1116.01,-574.15 1118.99,-571.67 1121.22,-569.31" />
+</g>
+
+<g id="edge106" class="edge">
+<title>Kaggeledstorget--&#196;tteh&#246;gsgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1090.63,-576.62C1092.87,-574.22 1095.9,-571.67 1099.25,-569.29" />
+</g>
+
+<g id="node5" class="node">
+<title>Munkeb&#228;ckstorget</title>
+<g id="a_node5"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004850000" ns0:title="Munkeb&#228;ckstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004850000" title="Munkeb&#228;ckstorget">
+<polygon fill="white" stroke="black" points="1140.74,-544.56 1066.99,-544.56 1066.99,-528.31 1140.74,-528.31 1140.74,-544.56" />
+<text text-anchor="middle" x="1103.86" y="-532.96" font-family="Times,serif" font-size="8.00">Munkeb&#228;ckstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge4" class="edge">
+<title>&#196;tteh&#246;gsgatan--Munkeb&#228;ckstorget</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M1124.83,-552.16C1123.74,-549.81 1122.09,-547.3 1120.16,-544.96" />
+</g>
+
+<g id="edge107" class="edge">
+<title>&#196;tteh&#246;gsgatan--Munkeb&#228;ckstorget</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1108.55,-552.13C1106.65,-549.82 1105.03,-547.35 1103.95,-545.03" />
+</g>
+
+<g id="node6" class="node">
+<title>H&#228;rlanda</title>
+<g id="a_node6"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003310000" ns0:title="H&#228;rlanda" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003310000" title="H&#228;rlanda">
+<polygon fill="white" stroke="black" points="1058.95,-548.51 1012.95,-548.51 1012.95,-532.26 1058.95,-532.26 1058.95,-548.51" />
+<text text-anchor="middle" x="1035.95" y="-536.91" font-family="Times,serif" font-size="8.00">H&#228;rlanda</text>
+</a>
+</g>
+</g>
+
+<g id="edge5" class="edge">
+<title>Munkeb&#228;ckstorget--H&#228;rlanda</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M1066.72,-538.59C1064.25,-538.74 1061.79,-538.88 1059.41,-539.02" />
+</g>
+
+<g id="node65" class="node">
+<title>Solrosgatan</title>
+<g id="a_node65"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006140000" ns0:title="Solrosgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006140000" title="Solrosgatan">
+<polygon fill="white" stroke="black" points="1116.76,-520.3 1063.26,-520.3 1063.26,-504.05 1116.76,-504.05 1116.76,-520.3" />
+<text text-anchor="middle" x="1090.01" y="-508.7" font-family="Times,serif" font-size="8.00">Solrosgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge108" class="edge">
+<title>Munkeb&#228;ckstorget--Solrosgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1099.02,-527.95C1097.64,-525.54 1096.15,-522.93 1094.78,-520.53" />
+</g>
+
+<g id="node7" class="node">
+<title>Stockholmsgatan</title>
+<g id="a_node7"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006290000" ns0:title="Stockholmsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006290000" title="Stockholmsgatan">
+<polygon fill="white" stroke="black" points="1004.93,-527.35 934.93,-527.35 934.93,-511.1 1004.93,-511.1 1004.93,-527.35" />
+<text text-anchor="middle" x="969.93" y="-515.75" font-family="Times,serif" font-size="8.00">Stockholmsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge6" class="edge">
+<title>H&#228;rlanda--Stockholmsgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M1026.34,-531.82C1020.62,-528.92 1012.98,-525.94 1005.18,-523.43" />
+</g>
+
+<g id="edge81" class="edge">
+<title>H&#228;rlanda--Solrosgatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1052.46,-531.76C1059.17,-528.26 1066.9,-524.23 1073.59,-520.74" />
+</g>
+
+<g id="edge80" class="edge">
+<title>Stockholmsgatan--H&#228;rlanda</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M979.54,-527.78C988.19,-532.17 1001.22,-536.74 1012.59,-539.58" />
+</g>
+
+<g id="node8" class="node">
+<title>Redbergsplatsen</title>
+<g id="a_node8"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005460000" ns0:title="Redbergsplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005460000" title="Redbergsplatsen">
+<polygon fill="green" stroke="black" points="926.86,-534.08 859.11,-534.08 859.11,-517.83 926.86,-517.83 926.86,-534.08" />
+<text text-anchor="middle" x="892.99" y="-522.48" font-family="Times,serif" font-size="8.00">Redbergsplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge7" class="edge">
+<title>Stockholmsgatan--Redbergsplatsen</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M934.47,-515.58C928.9,-515.98 923.24,-516.58 917.97,-517.34" />
+</g>
+
+<g id="edge79" class="edge">
+<title>Redbergsplatsen--Stockholmsgatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M927.1,-529.7C933.1,-529.29 939.25,-528.65 944.94,-527.83" />
+</g>
+
+<g id="node9" class="node">
+<title>Olskrokstorget</title>
+<g id="a_node9"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005160000" ns0:title="Olskrokstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005160000" title="Olskrokstorget">
+<polygon fill="green" stroke="black" points="862.84,-509.82 800.34,-509.82 800.34,-493.57 862.84,-493.57 862.84,-509.82" />
+<text text-anchor="middle" x="831.59" y="-498.22" font-family="Times,serif" font-size="8.00">Olskrokstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge8" class="edge">
+<title>Redbergsplatsen--Olskrokstorget</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M893.79,-517.52C890.4,-499.85 856.64,-485.54 839.76,-493.25" />
+</g>
+
+<g id="edge150" class="edge">
+<title>Redbergsplatsen--Olskrokstorget</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M884.49,-534.54C867.45,-541.95 833.95,-527.59 830.76,-509.96" />
+</g>
+
+<g id="edge224" class="edge">
+<title>Redbergsplatsen--Olskrokstorget</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M858.73,-519.67C851.5,-516.76 844.52,-513.41 839.44,-510.26" />
+</g>
+
+<g id="edge78" class="edge">
+<title>Olskrokstorget--Redbergsplatsen</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M863.33,-506.98C871.51,-510.13 879.59,-513.93 885.27,-517.46" />
+</g>
+
+<g id="node10" class="node">
+<title>Svingeln</title>
+<g id="a_node10"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006480000" ns0:title="Svingeln" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006480000" title="Svingeln">
+<polygon fill="green" stroke="black" points="792.3,-500.41 748.55,-500.41 748.55,-484.16 792.3,-484.16 792.3,-500.41" />
+<text text-anchor="middle" x="770.43" y="-488.81" font-family="Times,serif" font-size="8.00">Svingeln</text>
+</a>
+</g>
+</g>
+
+<g id="edge9" class="edge">
+<title>Olskrokstorget--Svingeln</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M830.65,-493.32C823.71,-476.15 786.91,-470.25 774.39,-483.95" />
+</g>
+
+<g id="edge151" class="edge">
+<title>Olskrokstorget--Svingeln</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M827.62,-510.05C815.13,-523.67 778.59,-517.87 771.45,-500.86" />
+</g>
+
+<g id="edge225" class="edge">
+<title>Olskrokstorget--Svingeln</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M799.98,-503.66C795.21,-502.93 790.46,-501.97 786.22,-500.88" />
+</g>
+
+<g id="edge77" class="edge">
+<title>Svingeln--Olskrokstorget</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M792.46,-489.15C800.14,-489.83 808.59,-491.25 815.68,-493.07" />
+</g>
+
+<g id="node11" class="node">
+<title>Ullevi Norra</title>
+<g id="a_node11"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007171000" ns0:title="Ullevi Norra" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007171000" title="Ullevi Norra">
+<polygon fill="green" stroke="black" points="879.99,-483.31 821.99,-483.31 821.99,-467.06 879.99,-467.06 879.99,-483.31" />
+<text text-anchor="middle" x="850.99" y="-471.71" font-family="Times,serif" font-size="8.00">Ullevi Norra</text>
+</a>
+</g>
+</g>
+
+<g id="edge10" class="edge">
+<title>Svingeln--Ullevi Norra</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M776.52,-500.76C793.96,-512.21 841.6,-501.5 849.99,-483.37" />
+</g>
+
+<g id="edge152" class="edge">
+<title>Svingeln--Ullevi Norra</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M771.61,-483.72C780.47,-465.86 827.35,-455.39 844.77,-466.62" />
+</g>
+
+<g id="edge226" class="edge">
+<title>Svingeln--Ullevi Norra</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M784.46,-483.77C794.67,-480.28 808.86,-476.9 821.52,-474.83" />
+</g>
+
+<g id="edge76" class="edge">
+<title>Ullevi Norra--Svingeln</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M836.96,-483.7C824.7,-487.89 806.72,-491.91 792.53,-493.72" />
+</g>
+
+<g id="node12" class="node">
+<title>Centralstationen</title>
+<g id="a_node12"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001950000" ns0:title="Centralstationen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001950000" title="Centralstationen">
+<polygon fill="orange" stroke="black" points="783.69,-476.14 715.19,-476.14 715.19,-459.89 783.69,-459.89 783.69,-476.14" />
+<text text-anchor="middle" x="749.44" y="-464.54" font-family="Times,serif" font-size="8.00">Centralstationen</text>
+</a>
+</g>
+</g>
+
+<g id="edge11" class="edge">
+<title>Ullevi Norra--Centralstationen</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M821.51,-466.87C809.73,-465.4 796.09,-464.37 783.87,-464.02" />
+</g>
+
+<g id="node42" class="node">
+<title>Ullevi S&#246;dra</title>
+<g id="a_node42"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007172000" ns0:title="Ullevi S&#246;dra" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007172000" title="Ullevi S&#246;dra">
+<polygon fill="green" stroke="black" points="844.73,-451 787.48,-451 787.48,-434.75 844.73,-434.75 844.73,-451" />
+<text text-anchor="middle" x="816.11" y="-439.4" font-family="Times,serif" font-size="8.00">Ullevi S&#246;dra</text>
+</a>
+</g>
+</g>
+
+<g id="edge153" class="edge">
+<title>Ullevi Norra--Ullevi S&#246;dra</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M849.21,-466.78C846.18,-461.99 840.78,-456.21 835.16,-451.44" />
+</g>
+
+<g id="edge227" class="edge">
+<title>Ullevi Norra--Ullevi S&#246;dra</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M831.86,-466.56C826.28,-461.81 820.92,-456.06 817.9,-451.3" />
+</g>
+
+<g id="edge75" class="edge">
+<title>Centralstationen--Ullevi Norra</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M781.4,-476.63C794.25,-478.14 808.96,-479.12 821.54,-479.29" />
+</g>
+
+<g id="node13" class="node">
+<title>Brunnsparken</title>
+<g id="a_node13"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001760000" ns0:title="Brunnsparken" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001760000" title="Brunnsparken">
+<polygon fill="orange" stroke="black" points="707.15,-476.16 646.9,-476.16 646.9,-459.91 707.15,-459.91 707.15,-476.16" />
+<text text-anchor="middle" x="677.02" y="-464.56" font-family="Times,serif" font-size="8.00">Brunnsparken</text>
+</a>
+</g>
+</g>
+
+<g id="edge12" class="edge">
+<title>Centralstationen--Brunnsparken</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M748.97,-459.58C743.09,-407.82 683.29,-407.85 677.48,-459.65" />
+</g>
+
+<g id="edge42" class="edge">
+<title>Centralstationen--Brunnsparken</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M748.98,-476.46C743.13,-528.23 683.32,-528.22 677.48,-476.42" />
+</g>
+
+<g id="edge198" class="edge">
+<title>Centralstationen--Brunnsparken</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M748.53,-476.39C740.74,-510.26 685.64,-510.25 677.92,-476.32" />
+</g>
+
+<g id="edge247" class="edge">
+<title>Centralstationen--Brunnsparken</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M746.69,-476.4C735.22,-492.23 691.26,-492.24 679.78,-476.42" />
+</g>
+
+<g id="node69" class="node">
+<title>Gamlestads Torg</title>
+<g id="a_node69"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002670000" ns0:title="Gamlestads Torg" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002670000" title="Gamlestads Torg">
+<polygon fill="cyan" stroke="black" points="893.67,-582.61 823.67,-582.61 823.67,-566.36 893.67,-566.36 893.67,-582.61" />
+<text text-anchor="middle" x="858.67" y="-571.01" font-family="Times,serif" font-size="8.00">Gamlestads Torg</text>
+</a>
+</g>
+</g>
+
+<g id="edge99" class="edge">
+<title>Centralstationen--Gamlestads Torg</title>
+<path fill="none" stroke="green" stroke-width="2" d="M747.43,-476.38C750.48,-497.96 794.15,-544.67 826.53,-565.91" />
+</g>
+
+<g id="edge306" class="edge">
+<title>Centralstationen--Gamlestads Torg</title>
+<path fill="none" stroke="black" stroke-width="2" d="M781.62,-476.62C814.01,-497.88 857.66,-544.58 860.68,-566.14" />
+</g>
+
+<g id="node81" class="node">
+<title>Lilla Bommen</title>
+<g id="a_node81"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004380000" ns0:title="Lilla Bommen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004380000" title="Lilla Bommen">
+<polygon fill="white" stroke="black" points="663.64,-520.93 601.14,-520.93 601.14,-504.68 663.64,-504.68 663.64,-520.93" />
+<text text-anchor="middle" x="632.39" y="-509.33" font-family="Times,serif" font-size="8.00">Lilla Bommen</text>
+</a>
+</g>
+</g>
+
+<g id="edge269" class="edge">
+<title>Centralstationen--Lilla Bommen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M727.15,-476.55C706.32,-484.52 675.4,-496.35 654.6,-504.31" />
+</g>
+
+<g id="edge74" class="edge">
+<title>Brunnsparken--Centralstationen</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M707.32,-474.7C709.8,-474.77 712.32,-474.79 714.82,-474.77" />
+</g>
+
+<g id="edge98" class="edge">
+<title>Brunnsparken--Centralstationen</title>
+<path fill="none" stroke="green" stroke-width="2" d="M707.31,-461.36C709.79,-461.29 712.31,-461.27 714.82,-461.28" />
+</g>
+
+<g id="edge268" class="edge">
+<title>Brunnsparken--Centralstationen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M679.77,-459.66C691.24,-443.83 735.2,-443.82 746.68,-459.64" />
+</g>
+
+<g id="edge305" class="edge">
+<title>Brunnsparken--Centralstationen</title>
+<path fill="none" stroke="black" stroke-width="2" d="M677.94,-459.67C685.72,-425.8 740.82,-425.81 748.54,-459.74" />
+</g>
+
+<g id="node14" class="node">
+<title>Stenpiren</title>
+<g id="a_node14"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006242000" ns0:title="Stenpiren" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006242000" title="Stenpiren">
+<polygon fill="white" stroke="black" points="561.05,-475.99 514.3,-475.99 514.3,-459.74 561.05,-459.74 561.05,-475.99" />
+<text text-anchor="middle" x="537.67" y="-464.39" font-family="Times,serif" font-size="8.00">Stenpiren</text>
+</a>
+</g>
+</g>
+
+<g id="edge13" class="edge">
+<title>Brunnsparken--Stenpiren</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M646.45,-462.3C620.81,-460.72 584.73,-460.84 561.28,-462.68" />
+</g>
+
+<g id="edge248" class="edge">
+<title>Brunnsparken--Stenpiren</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M646.44,-473.7C620.8,-475.22 584.72,-475.01 561.26,-473.11" />
+</g>
+
+<g id="node43" class="node">
+<title>Domkyrkan</title>
+<g id="a_node43"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002130000" ns0:title="Domkyrkan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002130000" title="Domkyrkan">
+<polygon fill="white" stroke="black" points="622.66,-453.34 569.16,-453.34 569.16,-437.09 622.66,-437.09 622.66,-453.34" />
+<text text-anchor="middle" x="595.91" y="-441.74" font-family="Times,serif" font-size="8.00">Domkyrkan</text>
+</a>
+</g>
+</g>
+
+<g id="edge43" class="edge">
+<title>Brunnsparken--Domkyrkan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M673.63,-459.69C664.83,-450.94 641.61,-442.58 622.78,-439.91" />
+</g>
+
+<g id="node64" class="node">
+<title>Kungsportsplatsen</title>
+<g id="a_node64"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004090000" ns0:title="Kungsportsplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004090000" title="Kungsportsplatsen">
+<polygon fill="orange" stroke="black" points="764.41,-451.89 689.91,-451.89 689.91,-435.64 764.41,-435.64 764.41,-451.89" />
+<text text-anchor="middle" x="727.16" y="-440.29" font-family="Times,serif" font-size="8.00">Kungsportsplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge199" class="edge">
+<title>Brunnsparken--Kungsportsplatsen</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M683.02,-476.46C700.57,-493.32 733.54,-476.89 729.88,-452.36" />
+</g>
+
+<g id="edge123" class="edge">
+<title>Brunnsparken--Lilla Bommen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M668.84,-476.25C660.89,-484.22 648.87,-496.28 640.83,-504.34" />
+</g>
+
+<g id="node111" class="node">
+<title>Nordstan</title>
+<g id="a_node111"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004945000" ns0:title="Nordstan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004945000" title="Nordstan">
+<polygon fill="white" stroke="black" points="717.86,-500.52 672.61,-500.52 672.61,-484.27 717.86,-484.27 717.86,-500.52" />
+<text text-anchor="middle" x="695.23" y="-488.92" font-family="Times,serif" font-size="8.00">Nordstan</text>
+</a>
+</g>
+</g>
+
+<g id="edge168" class="edge">
+<title>Brunnsparken--Nordstan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M683.39,-476.56C685.2,-478.97 687.16,-481.59 688.96,-484" />
+</g>
+
+<g id="node15" class="node">
+<title>J&#228;rntorget</title>
+<g id="a_node15"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003640000" ns0:title="J&#228;rntorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003640000" title="J&#228;rntorget">
+<polygon fill="white" stroke="black" points="553.03,-412.98 505.53,-412.98 505.53,-396.73 553.03,-396.73 553.03,-412.98" />
+<text text-anchor="middle" x="529.28" y="-401.38" font-family="Times,serif" font-size="8.00">J&#228;rntorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge14" class="edge">
+<title>Stenpiren--J&#228;rntorget</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M541.24,-459.27C542.35,-447.13 539.48,-425.12 535.31,-413.14" />
+</g>
+
+<g id="edge249" class="edge">
+<title>Stenpiren--J&#228;rntorget</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M531.61,-459.49C527.43,-447.44 524.58,-425.37 525.73,-413.29" />
+</g>
+
+<g id="node16" class="node">
+<title>Prinsgatan</title>
+<g id="a_node16"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005337000" ns0:title="Prinsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005337000" title="Prinsgatan">
+<polygon fill="white" stroke="black" points="572.53,-377.61 522.78,-377.61 522.78,-361.36 572.53,-361.36 572.53,-377.61" />
+<text text-anchor="middle" x="547.65" y="-366.01" font-family="Times,serif" font-size="8.00">Prinsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge15" class="edge">
+<title>J&#228;rntorget--Prinsgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M540.71,-396.58C544.54,-390.97 547.93,-383.66 549.15,-377.99" />
+</g>
+
+<g id="node61" class="node">
+<title>Masthuggstorget</title>
+<g id="a_node61"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004780000" ns0:title="Masthuggstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004780000" title="Masthuggstorget">
+<polygon fill="white" stroke="black" points="497.45,-422.09 429.7,-422.09 429.7,-405.84 497.45,-405.84 497.45,-422.09" />
+<text text-anchor="middle" x="463.57" y="-410.49" font-family="Times,serif" font-size="8.00">Masthuggstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge250" class="edge">
+<title>J&#228;rntorget--Masthuggstorget</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M517.62,-396.25C502.77,-393.09 477.89,-397.32 467.88,-405.47" />
+</g>
+
+<g id="node62" class="node">
+<title>Hagakyrkan</title>
+<g id="a_node62"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003040000" ns0:title="Hagakyrkan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003040000" title="Hagakyrkan">
+<polygon fill="white" stroke="black" points="616.05,-403.26 561.05,-403.26 561.05,-387.01 616.05,-387.01 616.05,-403.26" />
+<text text-anchor="middle" x="588.55" y="-391.66" font-family="Times,serif" font-size="8.00">Hagakyrkan</text>
+</a>
+</g>
+</g>
+
+<g id="edge68" class="edge">
+<title>J&#228;rntorget--Hagakyrkan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M540.74,-413.45C554.43,-416.22 576.45,-411.74 585.05,-403.57" />
+</g>
+
+<g id="edge164" class="edge">
+<title>J&#228;rntorget--Hagakyrkan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M532.69,-396.51C541.2,-388.3 563.27,-383.77 577.02,-386.53" />
+</g>
+
+<g id="edge301" class="edge">
+<title>J&#228;rntorget--Hagakyrkan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M553.39,-400.9C555.82,-400.5 558.31,-400.09 560.78,-399.69" />
+</g>
+
+<g id="edge163" class="edge">
+<title>Prinsgatan--J&#228;rntorget</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M536.22,-377.76C532.39,-383.38 529,-390.69 527.79,-396.36" />
+</g>
+
+<g id="node17" class="node">
+<title>Olivedalsgatan</title>
+<g id="a_node17"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005140000" ns0:title="Olivedalsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005140000" title="Olivedalsgatan">
+<polygon fill="white" stroke="black" points="595.87,-312.8 531.87,-312.8 531.87,-296.55 595.87,-296.55 595.87,-312.8" />
+<text text-anchor="middle" x="563.87" y="-301.2" font-family="Times,serif" font-size="8.00">Olivedalsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge16" class="edge">
+<title>Prinsgatan--Olivedalsgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M554.85,-361.13C560.61,-348.65 566.26,-325.38 566.37,-312.95" />
+</g>
+
+<g id="edge162" class="edge">
+<title>Olivedalsgatan--Prinsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M556.67,-313.04C550.92,-325.52 545.27,-348.79 545.15,-361.22" />
+</g>
+
+<g id="node18" class="node">
+<title>Linn&#233;platsen</title>
+<g id="a_node18"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004510000" ns0:title="Linn&#233;platsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004510000" title="Linn&#233;platsen">
+<polygon fill="white" stroke="black" points="578.78,-288.49 521.53,-288.49 521.53,-272.24 578.78,-272.24 578.78,-288.49" />
+<text text-anchor="middle" x="550.15" y="-276.89" font-family="Times,serif" font-size="8.00">Linn&#233;platsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge17" class="edge">
+<title>Olivedalsgatan--Linn&#233;platsen</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M570.48,-296.22C571.02,-293.82 570.84,-291.31 570.1,-288.96" />
+</g>
+
+<g id="edge51" class="edge">
+<title>Olivedalsgatan--Linn&#233;platsen</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M543.95,-296.17C543.19,-293.81 543,-291.29 543.53,-288.89" />
+</g>
+
+<g id="edge161" class="edge">
+<title>Linn&#233;platsen--Olivedalsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M554.95,-288.87C556.31,-291.28 557.79,-293.9 559.15,-296.3" />
+</g>
+
+<g id="node19" class="node">
+<title>Botaniska Tr&#228;dg&#229;rden</title>
+<g id="a_node19"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006370000" ns0:title="Botaniska Tr&#228;dg&#229;rden" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006370000" title="Botaniska Tr&#228;dg&#229;rden">
+<polygon fill="white" stroke="black" points="622.97,-259.15 537.22,-259.15 537.22,-242.9 622.97,-242.9 622.97,-259.15" />
+<text text-anchor="middle" x="580.09" y="-247.55" font-family="Times,serif" font-size="8.00">Botaniska Tr&#228;dg&#229;rden</text>
+</a>
+</g>
+</g>
+
+<g id="edge18" class="edge">
+<title>Linn&#233;platsen--Botaniska Tr&#228;dg&#229;rden</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M568.43,-271.87C572.62,-267.98 576.48,-263.47 578.78,-259.54" />
+</g>
+
+<g id="edge52" class="edge">
+<title>Linn&#233;platsen--Botaniska Tr&#228;dg&#229;rden</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M551.48,-271.83C553.77,-267.92 557.61,-263.43 561.78,-259.56" />
+</g>
+
+<g id="node20" class="node">
+<title>Marklandsgatan</title>
+<g id="a_node20"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004760000" ns0:title="Marklandsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004760000" title="Marklandsgatan">
+<polygon fill="white" stroke="black" points="654.11,-221.37 587.11,-221.37 587.11,-205.12 654.11,-205.12 654.11,-221.37" />
+<text text-anchor="middle" x="620.61" y="-209.77" font-family="Times,serif" font-size="8.00">Marklandsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge19" class="edge">
+<title>Botaniska Tr&#228;dg&#229;rden--Marklandsgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M623.39,-246.48C628.19,-239.38 629.94,-230.37 626.23,-221.7" />
+</g>
+
+<g id="edge53" class="edge">
+<title>Botaniska Tr&#228;dg&#229;rden--Marklandsgatan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M574.4,-242.4C566.16,-222.8 585.81,-201.49 605.26,-204.63" />
+</g>
+
+<g id="edge208" class="edge">
+<title>Botaniska Tr&#228;dg&#229;rden--Marklandsgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M578.03,-242.44C579.2,-235.92 584.77,-228.08 591.65,-221.79" />
+</g>
+
+<g id="edge235" class="edge">
+<title>Botaniska Tr&#228;dg&#229;rden--Marklandsgatan</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M589.08,-242.64C595.71,-236.47 604.68,-228.1 611.36,-221.87" />
+</g>
+
+<g id="node110" class="node">
+<title>Sahlgrenska Huvudentr&#233;</title>
+<g id="a_node110"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005600000" ns0:title="Sahlgrenska Huvudentr&#233;" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005600000" title="Sahlgrenska Huvudentr&#233;">
+<polygon fill="white" stroke="black" points="733.65,-249.72 638.9,-249.72 638.9,-233.47 733.65,-233.47 733.65,-249.72" />
+<text text-anchor="middle" x="686.27" y="-238.12" font-family="Times,serif" font-size="8.00">Sahlgrenska Huvudentr&#233;</text>
+</a>
+</g>
+</g>
+
+<g id="edge333" class="edge">
+<title>Botaniska Tr&#228;dg&#229;rden--Sahlgrenska Huvudentr&#233;</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M597.58,-259.64C620.9,-262.75 661.2,-258.4 678.27,-250.16" />
+</g>
+
+<g id="edge332" class="edge">
+<title>Marklandsgatan--Botaniska Tr&#228;dg&#229;rden</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M622.67,-221.83C621.5,-228.35 615.93,-236.2 609.05,-242.48" />
+</g>
+
+<g id="node21" class="node">
+<title>Axel Dahlstr&#246;ms Torg</title>
+<g id="a_node21"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001200000" ns0:title="Axel Dahlstr&#246;ms Torg" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001200000" title="Axel Dahlstr&#246;ms Torg">
+<polygon fill="white" stroke="black" points="545.29,-210.63 458.04,-210.63 458.04,-194.38 545.29,-194.38 545.29,-210.63" />
+<text text-anchor="middle" x="501.67" y="-199.03" font-family="Times,serif" font-size="8.00">Axel Dahlstr&#246;ms Torg</text>
+</a>
+</g>
+</g>
+
+<g id="edge20" class="edge">
+<title>Marklandsgatan--Axel Dahlstr&#246;ms Torg</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M617.11,-204.76C600.41,-187.34 529.37,-180.62 507.84,-193.97" />
+</g>
+
+<g id="edge54" class="edge">
+<title>Marklandsgatan--Axel Dahlstr&#246;ms Torg</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M614.37,-221.81C592.64,-235.19 521.03,-228.3 504.88,-210.68" />
+</g>
+
+<g id="edge209" class="edge">
+<title>Marklandsgatan--Axel Dahlstr&#246;ms Torg</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M586.61,-216.34C568.94,-215.63 547.57,-213.62 530.69,-211.07" />
+</g>
+
+<g id="edge236" class="edge">
+<title>Marklandsgatan--Axel Dahlstr&#246;ms Torg</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M591.43,-204.65C577.61,-202.57 560.81,-200.85 545.49,-199.91" />
+</g>
+
+<g id="node50" class="node">
+<title>Bokekullsgatan</title>
+<g id="a_node50"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001620000" ns0:title="Bokekullsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001620000" title="Bokekullsgatan">
+<polygon fill="white" stroke="black" points="563.48,-234.9 498.73,-234.9 498.73,-218.65 563.48,-218.65 563.48,-234.9" />
+<text text-anchor="middle" x="531.11" y="-223.3" font-family="Times,serif" font-size="8.00">Bokekullsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge55" class="edge">
+<title>Marklandsgatan--Bokekullsgatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M586.77,-218.36C579.25,-219.5 571.29,-220.7 563.81,-221.83" />
+</g>
+
+<g id="node22" class="node">
+<title>Lantmilsgatan</title>
+<g id="a_node22"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004320000" ns0:title="Lantmilsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004320000" title="Lantmilsgatan">
+<polygon fill="white" stroke="black" points="514.37,-186.36 452.62,-186.36 452.62,-170.11 514.37,-170.11 514.37,-186.36" />
+<text text-anchor="middle" x="483.5" y="-174.76" font-family="Times,serif" font-size="8.00">Lantmilsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge21" class="edge">
+<title>Axel Dahlstr&#246;ms Torg--Lantmilsgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M506.83,-193.99C507.15,-191.54 506.76,-189 505.82,-186.62" />
+</g>
+
+<g id="edge210" class="edge">
+<title>Axel Dahlstr&#246;ms Torg--Lantmilsgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M479.36,-194.16C478.42,-191.78 478.02,-189.24 478.33,-186.79" />
+</g>
+
+<g id="edge237" class="edge">
+<title>Axel Dahlstr&#246;ms Torg--Lantmilsgatan</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M495.31,-194.02C493.51,-191.61 491.55,-188.99 489.76,-186.6" />
+</g>
+
+<g id="node23" class="node">
+<title>Nymilsgatan</title>
+<g id="a_node23"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005110000" ns0:title="Nymilsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005110000" title="Nymilsgatan">
+<polygon fill="white" stroke="black" points="546.82,-162.11 490.32,-162.11 490.32,-145.86 546.82,-145.86 546.82,-162.11" />
+<text text-anchor="middle" x="518.57" y="-150.51" font-family="Times,serif" font-size="8.00">Nymilsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge22" class="edge">
+<title>Lantmilsgatan--Nymilsgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M514.67,-172.07C517.44,-169.06 519.45,-165.72 520.15,-162.4" />
+</g>
+
+<g id="edge211" class="edge">
+<title>Lantmilsgatan--Nymilsgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M481.96,-169.62C482.91,-165.47 485.89,-161.26 489.83,-157.77" />
+</g>
+
+<g id="edge238" class="edge">
+<title>Lantmilsgatan--Nymilsgatan</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M495.77,-169.76C499.24,-167.35 503.02,-164.74 506.49,-162.34" />
+</g>
+
+<g id="node24" class="node">
+<title>Musikv&#228;gen</title>
+<g id="a_node24"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004870000" ns0:title="Musikv&#228;gen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004870000" title="Musikv&#228;gen">
+<polygon fill="white" stroke="black" points="518.38,-137.83 464.13,-137.83 464.13,-121.58 518.38,-121.58 518.38,-137.83" />
+<text text-anchor="middle" x="491.25" y="-126.23" font-family="Times,serif" font-size="8.00">Musikv&#228;gen</text>
+</a>
+</g>
+</g>
+
+<g id="edge23" class="edge">
+<title>Nymilsgatan--Musikv&#228;gen</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M521.51,-145.59C521.37,-142.88 520.37,-140.13 518.79,-137.56" />
+</g>
+
+<g id="edge212" class="edge">
+<title>Nymilsgatan--Musikv&#228;gen</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M490.62,-145.45C489.29,-143.09 488.45,-140.58 488.31,-138.12" />
+</g>
+
+<g id="edge239" class="edge">
+<title>Nymilsgatan--Musikv&#228;gen</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M509.01,-145.49C506.31,-143.09 503.36,-140.47 500.66,-138.07" />
+</g>
+
+<g id="node25" class="node">
+<title>Positivgatan</title>
+<g id="a_node25"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005330000" ns0:title="Positivgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005330000" title="Positivgatan">
+<polygon fill="white" stroke="black" points="490.99,-113.56 435.99,-113.56 435.99,-97.31 490.99,-97.31 490.99,-113.56" />
+<text text-anchor="middle" x="463.49" y="-101.96" font-family="Times,serif" font-size="8.00">Positivgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge24" class="edge">
+<title>Musikv&#228;gen--Positivgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M494.1,-121.28C493.93,-118.66 492.96,-115.99 491.44,-113.51" />
+</g>
+
+<g id="edge213" class="edge">
+<title>Musikv&#228;gen--Positivgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M463.71,-122.3C461.97,-119.65 460.85,-116.78 460.64,-113.96" />
+</g>
+
+<g id="edge240" class="edge">
+<title>Musikv&#228;gen--Positivgatan</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M481.54,-121.22C478.79,-118.81 475.79,-116.2 473.05,-113.8" />
+</g>
+
+<g id="node26" class="node">
+<title>Fr&#246;lunda Torg Sp&#229;rvagn</title>
+<g id="a_node26"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002540000" ns0:title="Fr&#246;lunda Torg Sp&#229;rvagn" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002540000" title="Fr&#246;lunda Torg Sp&#229;rvagn">
+<polygon fill="white" stroke="black" points="486.03,-89.19 392.78,-89.19 392.78,-72.94 486.03,-72.94 486.03,-89.19" />
+<text text-anchor="middle" x="439.4" y="-77.59" font-family="Times,serif" font-size="8.00">Fr&#246;lunda Torg Sp&#229;rvagn</text>
+</a>
+</g>
+</g>
+
+<g id="edge25" class="edge">
+<title>Positivgatan--Fr&#246;lunda Torg Sp&#229;rvagn</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M467.13,-97.05C467.16,-94.53 466.47,-91.96 465.25,-89.55" />
+</g>
+
+<g id="edge214" class="edge">
+<title>Positivgatan--Fr&#246;lunda Torg Sp&#229;rvagn</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M437.65,-96.99C436.43,-94.58 435.73,-92.02 435.76,-89.51" />
+</g>
+
+<g id="edge241" class="edge">
+<title>Positivgatan--Fr&#246;lunda Torg Sp&#229;rvagn</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M455.06,-96.91C452.67,-94.5 450.08,-91.87 447.7,-89.46" />
+</g>
+
+<g id="node27" class="node">
+<title>Briljantgatan</title>
+<g id="a_node27"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001690000" ns0:title="Briljantgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001690000" title="Briljantgatan">
+<polygon fill="white" stroke="black" points="426.1,-64.59 368.1,-64.59 368.1,-48.34 426.1,-48.34 426.1,-64.59" />
+<text text-anchor="middle" x="397.1" y="-52.99" font-family="Times,serif" font-size="8.00">Briljantgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge26" class="edge">
+<title>Fr&#246;lunda Torg Sp&#229;rvagn--Briljantgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M435.01,-72.54C432.42,-70.09 428.96,-67.5 425.18,-65.09" />
+</g>
+
+<g id="edge215" class="edge">
+<title>Fr&#246;lunda Torg Sp&#229;rvagn--Briljantgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M411.44,-72.52C407.61,-70.08 404.1,-67.46 401.47,-64.98" />
+</g>
+
+<g id="node28" class="node">
+<title>Smaragdgatan</title>
+<g id="a_node28"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006040000" ns0:title="Smaragdgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006040000" title="Smaragdgatan">
+<polygon fill="white" stroke="black" points="406.53,-40.28 344.78,-40.28 344.78,-24.03 406.53,-24.03 406.53,-40.28" />
+<text text-anchor="middle" x="375.66" y="-28.68" font-family="Times,serif" font-size="8.00">Smaragdgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge27" class="edge">
+<title>Briljantgatan--Smaragdgatan</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M396.92,-47.88C395.8,-45.51 394.11,-43 392.14,-40.66" />
+</g>
+
+<g id="edge216" class="edge">
+<title>Briljantgatan--Smaragdgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M380.58,-47.91C378.57,-45.51 376.85,-42.93 375.73,-40.52" />
+</g>
+
+<g id="node29" class="node">
+<title>Opaltorget</title>
+<g id="a_node29"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005170000" ns0:title="Opaltorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005170000" title="Opaltorget">
+<polygon fill="white" stroke="black" points="414.97,-16.02 365.22,-16.02 365.22,0.23 414.97,0.23 414.97,-16.02" />
+<text text-anchor="middle" x="390.09" y="-4.42" font-family="Times,serif" font-size="8.00">Opaltorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge28" class="edge">
+<title>Smaragdgatan--Opaltorget</title>
+<path fill="none" stroke="gray" stroke-width="2" d="M388.51,-23.76C389.96,-21.37 391.12,-18.78 391.76,-16.37" />
+</g>
+
+<g id="edge217" class="edge">
+<title>Smaragdgatan--Opaltorget</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M374.02,-23.56C374.66,-21.21 375.79,-18.7 377.2,-16.36" />
+</g>
+
+<g id="node30" class="node">
+<title>M&#246;lndals Innerstad</title>
+<g id="a_node30"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012110000" ns0:title="M&#246;lndals Innerstad" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012110000" title="M&#246;lndals Innerstad">
+<polygon fill="white" stroke="black" points="961.1,-103.91 883.6,-103.91 883.6,-87.66 961.1,-87.66 961.1,-103.91" />
+<text text-anchor="middle" x="922.35" y="-92.31" font-family="Times,serif" font-size="8.00">M&#246;lndals Innerstad</text>
+</a>
+</g>
+</g>
+
+<g id="node31" class="node">
+<title>M&#246;lndals sjukhus</title>
+<g id="a_node31"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012130000" ns0:title="M&#246;lndals sjukhus" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012130000" title="M&#246;lndals sjukhus">
+<polygon fill="white" stroke="black" points="935.54,-136.71 864.79,-136.71 864.79,-120.46 935.54,-120.46 935.54,-136.71" />
+<text text-anchor="middle" x="900.17" y="-125.11" font-family="Times,serif" font-size="8.00">M&#246;lndals sjukhus</text>
+</a>
+</g>
+</g>
+
+<g id="edge29" class="edge">
+<title>M&#246;lndals Innerstad--M&#246;lndals sjukhus</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M908.66,-104.33C904.69,-109.29 901.12,-115.41 899.53,-120.34" />
+</g>
+
+<g id="edge84" class="edge">
+<title>M&#246;lndals Innerstad--M&#246;lndals sjukhus</title>
+<path fill="none" stroke="green" stroke-width="2" d="M922.96,-104.09C921.35,-109.05 917.75,-115.19 913.77,-120.14" />
+</g>
+
+<g id="node32" class="node">
+<title>Lackareb&#228;ck</title>
+<g id="a_node32"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012140000" ns0:title="Lackareb&#228;ck" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012140000" title="Lackareb&#228;ck">
+<polygon fill="white" stroke="black" points="921.07,-164.93 863.07,-164.93 863.07,-148.68 921.07,-148.68 921.07,-164.93" />
+<text text-anchor="middle" x="892.07" y="-153.33" font-family="Times,serif" font-size="8.00">Lackareb&#228;ck</text>
+</a>
+</g>
+</g>
+
+<g id="edge30" class="edge">
+<title>M&#246;lndals sjukhus--Lackareb&#228;ck</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M890.99,-136.97C889.45,-140.63 888.46,-144.89 888.38,-148.54" />
+</g>
+
+<g id="edge85" class="edge">
+<title>M&#246;lndals sjukhus--Lackareb&#228;ck</title>
+<path fill="none" stroke="green" stroke-width="2" d="M903.86,-137.03C903.75,-140.67 902.75,-144.9 901.21,-148.52" />
+</g>
+
+<g id="node33" class="node">
+<title>Kroksl&#228;tts Fabriker</title>
+<g id="a_node33"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012141000" ns0:title="Kroksl&#228;tts Fabriker" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012141000" title="Kroksl&#228;tts Fabriker">
+<polygon fill="white" stroke="black" points="931.15,-193.28 852.15,-193.28 852.15,-177.03 931.15,-177.03 931.15,-193.28" />
+<text text-anchor="middle" x="891.65" y="-181.68" font-family="Times,serif" font-size="8.00">Kroksl&#228;tts Fabriker</text>
+</a>
+</g>
+</g>
+
+<g id="edge31" class="edge">
+<title>Lackareb&#228;ck--Kroksl&#228;tts Fabriker</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M885.67,-165.37C884.95,-169.01 884.92,-173.23 885.58,-176.84" />
+</g>
+
+<g id="edge86" class="edge">
+<title>Lackareb&#228;ck--Kroksl&#228;tts Fabriker</title>
+<path fill="none" stroke="green" stroke-width="2" d="M898.16,-165.25C898.82,-168.92 898.75,-173.21 898,-176.86" />
+</g>
+
+<g id="node34" class="node">
+<title>Kroksl&#228;tts torg</title>
+<g id="a_node34"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012270000" ns0:title="Kroksl&#228;tts torg" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012270000" title="Kroksl&#228;tts torg">
+<polygon fill="white" stroke="black" points="913.79,-217.55 850.54,-217.55 850.54,-201.3 913.79,-201.3 913.79,-217.55" />
+<text text-anchor="middle" x="882.17" y="-205.95" font-family="Times,serif" font-size="8.00">Kroksl&#228;tts torg</text>
+</a>
+</g>
+</g>
+
+<g id="edge32" class="edge">
+<title>Kroksl&#228;tts Fabriker--Kroksl&#228;tts torg</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M881.09,-193.71C880.04,-196.08 879.31,-198.63 879.03,-201" />
+</g>
+
+<g id="edge87" class="edge">
+<title>Kroksl&#228;tts Fabriker--Kroksl&#228;tts torg</title>
+<path fill="none" stroke="green" stroke-width="2" d="M894.77,-193.72C894.48,-196.07 893.74,-198.6 892.7,-200.94" />
+</g>
+
+<g id="node35" class="node">
+<title>Lana</title>
+<g id="a_node35"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004310000" ns0:title="Lana" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004310000" title="Lana">
+<polygon fill="white" stroke="black" points="890.16,-241.82 857.66,-241.82 857.66,-225.57 890.16,-225.57 890.16,-241.82" />
+<text text-anchor="middle" x="873.91" y="-230.22" font-family="Times,serif" font-size="8.00">Lana</text>
+</a>
+</g>
+</g>
+
+<g id="edge33" class="edge">
+<title>Kroksl&#228;tts torg--Lana</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M872.17,-217.98C871.21,-220.37 870.56,-222.96 870.38,-225.34" />
+</g>
+
+<g id="edge88" class="edge">
+<title>Kroksl&#228;tts torg--Lana</title>
+<path fill="none" stroke="green" stroke-width="2" d="M885.68,-218.02C885.47,-220.33 884.84,-222.82 883.91,-225.12" />
+</g>
+
+<g id="node36" class="node">
+<title>Varbergsgatan</title>
+<g id="a_node36"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007270000" ns0:title="Varbergsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007270000" title="Varbergsgatan">
+<polygon fill="white" stroke="black" points="890.95,-266.1 829.95,-266.1 829.95,-249.85 890.95,-249.85 890.95,-266.1" />
+<text text-anchor="middle" x="860.45" y="-254.5" font-family="Times,serif" font-size="8.00">Varbergsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge34" class="edge">
+<title>Lana--Varbergsgatan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M861.43,-242.28C860.13,-244.58 859.1,-247.05 858.54,-249.36" />
+</g>
+
+<g id="edge89" class="edge">
+<title>Lana--Varbergsgatan</title>
+<path fill="none" stroke="green" stroke-width="2" d="M875.86,-242.14C875.28,-244.6 874.17,-247.26 872.74,-249.71" />
+</g>
+
+<g id="node37" class="node">
+<title>Elisedal</title>
+<g id="a_node37"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002210000" ns0:title="Elisedal" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002210000" title="Elisedal">
+<polygon fill="white" stroke="black" points="875.59,-290.79 833.34,-290.79 833.34,-274.54 875.59,-274.54 875.59,-290.79" />
+<text text-anchor="middle" x="854.46" y="-279.19" font-family="Times,serif" font-size="8.00">Elisedal</text>
+</a>
+</g>
+</g>
+
+<g id="edge35" class="edge">
+<title>Varbergsgatan--Elisedal</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M851.56,-266.45C850.71,-268.96 850.21,-271.7 850.18,-274.21" />
+</g>
+
+<g id="edge90" class="edge">
+<title>Varbergsgatan--Elisedal</title>
+<path fill="none" stroke="green" stroke-width="2" d="M864.73,-266.44C864.71,-268.97 864.2,-271.73 863.33,-274.26" />
+</g>
+
+<g id="node38" class="node">
+<title>Almedal</title>
+<g id="a_node38"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001050000" ns0:title="Almedal" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001050000" title="Almedal">
+<polygon fill="white" stroke="black" points="864.43,-315.24 820.68,-315.24 820.68,-298.99 864.43,-298.99 864.43,-315.24" />
+<text text-anchor="middle" x="842.56" y="-303.64" font-family="Times,serif" font-size="8.00">Almedal</text>
+</a>
+</g>
+</g>
+
+<g id="edge36" class="edge">
+<title>Elisedal--Almedal</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M842.87,-291.08C841.58,-293.54 840.6,-296.21 840.15,-298.67" />
+</g>
+
+<g id="edge91" class="edge">
+<title>Elisedal--Almedal</title>
+<path fill="none" stroke="green" stroke-width="2" d="M856.87,-291.16C856.41,-293.59 855.44,-296.22 854.17,-298.65" />
+</g>
+
+<g id="node39" class="node">
+<title>Liseberg S&#246;dra</title>
+<g id="a_node39"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004527000" ns0:title="Liseberg S&#246;dra" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004527000" title="Liseberg S&#246;dra">
+<polygon fill="white" stroke="black" points="901,-340.14 836.25,-340.14 836.25,-323.89 901,-323.89 901,-340.14" />
+<text text-anchor="middle" x="868.63" y="-328.54" font-family="Times,serif" font-size="8.00">Liseberg S&#246;dra</text>
+</a>
+</g>
+</g>
+
+<g id="edge37" class="edge">
+<title>Almedal--Liseberg S&#246;dra</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M843.63,-315.56C845.18,-318.19 847.47,-321.01 850.07,-323.61" />
+</g>
+
+<g id="edge92" class="edge">
+<title>Almedal--Liseberg S&#246;dra</title>
+<path fill="none" stroke="green" stroke-width="2" d="M861.16,-315.57C863.72,-318.13 865.97,-320.91 867.51,-323.49" />
+</g>
+
+<g id="node40" class="node">
+<title>Korsv&#228;gen</title>
+<g id="a_node40"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003980000" ns0:title="Korsv&#228;gen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003980000" title="Korsv&#228;gen">
+<polygon fill="green" stroke="black" points="850.6,-364.7 800.1,-364.7 800.1,-348.45 850.6,-348.45 850.6,-364.7" />
+<text text-anchor="middle" x="825.35" y="-353.1" font-family="Times,serif" font-size="8.00">Korsv&#228;gen</text>
+</a>
+</g>
+</g>
+
+<g id="edge38" class="edge">
+<title>Liseberg S&#246;dra--Korsv&#228;gen</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M840.16,-340.5C836.23,-342.94 832.63,-345.56 829.93,-348.04" />
+</g>
+
+<g id="edge93" class="edge">
+<title>Liseberg S&#246;dra--Korsv&#228;gen</title>
+<path fill="none" stroke="green" stroke-width="2" d="M864.03,-340.57C860.69,-343.63 855.98,-346.9 850.98,-349.79" />
+</g>
+
+<g id="node41" class="node">
+<title>Scandinavium</title>
+<g id="a_node41"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005740000" ns0:title="Scandinavium" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005740000" title="Scandinavium">
+<polygon fill="green" stroke="black" points="853.38,-419.52 792.38,-419.52 792.38,-403.27 853.38,-403.27 853.38,-419.52" />
+<text text-anchor="middle" x="822.88" y="-407.92" font-family="Times,serif" font-size="8.00">Scandinavium</text>
+</a>
+</g>
+</g>
+
+<g id="edge39" class="edge">
+<title>Korsv&#228;gen--Scandinavium</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M809.46,-364.93C802.39,-375.22 801.88,-392.57 808.57,-402.92" />
+</g>
+
+<g id="edge338" class="edge">
+<title>Korsv&#228;gen--Scandinavium</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M839.52,-364.85C846.36,-375.18 845.88,-392.73 838.74,-403.08" />
+</g>
+
+<g id="node68" class="node">
+<title>Berzeliigatan</title>
+<g id="a_node68"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001420000" ns0:title="Berzeliigatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001420000" title="Berzeliigatan">
+<polygon fill="white" stroke="black" points="830,-391.13 770.5,-391.13 770.5,-374.88 830,-374.88 830,-391.13" />
+<text text-anchor="middle" x="800.25" y="-379.53" font-family="Times,serif" font-size="8.00">Berzeliigatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge94" class="edge">
+<title>Korsv&#228;gen--Berzeliigatan</title>
+<path fill="none" stroke="green" stroke-width="2" d="M807.9,-365.14C805.06,-368.13 802.55,-371.45 800.96,-374.46" />
+</g>
+
+<g id="edge119" class="edge">
+<title>Korsv&#228;gen--Berzeliigatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M824.63,-365.12C823.04,-368.14 820.53,-371.46 817.67,-374.46" />
+</g>
+
+<g id="node107" class="node">
+<title>Chalmers</title>
+<g id="a_node107"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001960000" ns0:title="Chalmers" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001960000" title="Chalmers">
+<polygon fill="cyan" stroke="black" points="803.7,-315.58 756.95,-315.58 756.95,-299.33 803.7,-299.33 803.7,-315.58" />
+<text text-anchor="middle" x="780.32" y="-303.98" font-family="Times,serif" font-size="8.00">Chalmers</text>
+</a>
+</g>
+</g>
+
+<g id="edge156" class="edge">
+<title>Korsv&#228;gen--Chalmers</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M827.57,-348.04C826,-338.14 815.33,-323.89 804.18,-314.67" />
+</g>
+
+<g id="edge230" class="edge">
+<title>Korsv&#228;gen--Chalmers</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M800.06,-348.14C789.45,-338.93 779.62,-325.49 778.11,-316.02" />
+</g>
+
+<g id="edge155" class="edge">
+<title>Scandinavium--Korsv&#228;gen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M828.32,-403.06C831.05,-392.8 831.81,-375.48 829.98,-365.13" />
+</g>
+
+<g id="edge229" class="edge">
+<title>Scandinavium--Korsv&#228;gen</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M818.29,-403.09C816.42,-392.85 817.14,-375.57 819.83,-365.19" />
+</g>
+
+<g id="edge40" class="edge">
+<title>Scandinavium--Ullevi S&#246;dra</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M800.64,-420.01C798.6,-424.56 798.98,-430.01 802.16,-434.55" />
+</g>
+
+<g id="edge339" class="edge">
+<title>Scandinavium--Ullevi S&#246;dra</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M836.91,-419.85C840.05,-424.4 840.38,-429.85 838.3,-434.38" />
+</g>
+
+<g id="edge41" class="edge">
+<title>Ullevi S&#246;dra--Centralstationen</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M787.04,-446.75C776.47,-450.33 765.32,-455.1 757.92,-459.44" />
+</g>
+
+<g id="edge340" class="edge">
+<title>Ullevi S&#246;dra--Centralstationen</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M807.75,-451.38C801.62,-454.99 792.89,-458.9 784.04,-462.18" />
+</g>
+
+<g id="edge154" class="edge">
+<title>Ullevi S&#246;dra--Scandinavium</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M824.31,-434.58C826.1,-429.97 827.14,-424.27 826.97,-419.66" />
+</g>
+
+<g id="edge228" class="edge">
+<title>Ullevi S&#246;dra--Scandinavium</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M812.01,-434.35C811.88,-429.77 812.93,-424.15 814.71,-419.61" />
+</g>
+
+<g id="edge167" class="edge">
+<title>Domkyrkan--Brunnsparken</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M599.31,-453.56C607.57,-461.78 628.56,-469.65 646.68,-472.79" />
+</g>
+
+<g id="edge304" class="edge">
+<title>Domkyrkan--Brunnsparken</title>
+<path fill="none" stroke="black" stroke-width="2" d="M622.92,-452.81C630.48,-454.94 638.75,-457.27 646.49,-459.45" />
+</g>
+
+<g id="node44" class="node">
+<title>Gr&#246;nsakstorget</title>
+<g id="a_node44"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002850000" ns0:title="Gr&#246;nsakstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002850000" title="Gr&#246;nsakstorget">
+<polygon fill="white" stroke="black" points="631.86,-429.04 567.86,-429.04 567.86,-412.79 631.86,-412.79 631.86,-429.04" />
+<text text-anchor="middle" x="599.86" y="-417.44" font-family="Times,serif" font-size="8.00">Gr&#246;nsakstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge44" class="edge">
+<title>Domkyrkan--Gr&#246;nsakstorget</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M610.9,-436.63C611.58,-434.24 611.54,-431.65 610.73,-429.26" />
+</g>
+
+<g id="edge166" class="edge">
+<title>Gr&#246;nsakstorget--Domkyrkan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M584.87,-429.49C584.2,-431.89 584.23,-434.48 585.05,-436.86" />
+</g>
+
+<g id="edge303" class="edge">
+<title>Gr&#246;nsakstorget--Domkyrkan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M598.48,-429.41C598.09,-431.82 597.66,-434.44 597.27,-436.84" />
+</g>
+
+<g id="node45" class="node">
+<title>Vasaplatsen</title>
+<g id="a_node45"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007300000" ns0:title="Vasaplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007300000" title="Vasaplatsen">
+<polygon fill="orange" stroke="black" points="762.4,-403.37 708.9,-403.37 708.9,-387.12 762.4,-387.12 762.4,-403.37" />
+<text text-anchor="middle" x="735.65" y="-391.77" font-family="Times,serif" font-size="8.00">Vasaplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge45" class="edge">
+<title>Gr&#246;nsakstorget--Vasaplatsen</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M632.04,-414.83C655.41,-410.41 686.68,-404.5 708.73,-400.33" />
+</g>
+
+<g id="node46" class="node">
+<title>Vasa Viktoriagatan</title>
+<g id="a_node46"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007320000" ns0:title="Vasa Viktoriagatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007320000" title="Vasa Viktoriagatan">
+<polygon fill="white" stroke="black" points="700.88,-385.31 624.13,-385.31 624.13,-369.06 700.88,-369.06 700.88,-385.31" />
+<text text-anchor="middle" x="662.5" y="-373.71" font-family="Times,serif" font-size="8.00">Vasa Viktoriagatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge46" class="edge">
+<title>Vasaplatsen--Vasa Viktoriagatan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M723.52,-386.72C717.3,-384.26 709.35,-381.82 701.26,-379.8" />
+</g>
+
+<g id="node63" class="node">
+<title>Valand</title>
+<g id="a_node63"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007220000" ns0:title="Valand" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007220000" title="Valand">
+<polygon fill="orange" stroke="black" points="779.24,-427.62 741.49,-427.62 741.49,-411.37 779.24,-411.37 779.24,-427.62" />
+<text text-anchor="middle" x="760.37" y="-416.02" font-family="Times,serif" font-size="8.00">Valand</text>
+</a>
+</g>
+</g>
+
+<g id="edge71" class="edge">
+<title>Vasaplatsen--Valand</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M732.17,-403.72C732.2,-409.45 736.04,-415.44 741.16,-419.23" />
+</g>
+
+<g id="edge265" class="edge">
+<title>Vasaplatsen--Valand</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M761.97,-403.83C763.13,-406.11 763.82,-408.53 763.85,-410.91" />
+</g>
+
+<g id="node117" class="node">
+<title>Kapellplatsen</title>
+<g id="a_node117"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003760000" ns0:title="Kapellplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003760000" title="Kapellplatsen">
+<polygon fill="orange" stroke="black" points="792.2,-340.23 731.95,-340.23 731.95,-323.98 792.2,-323.98 792.2,-340.23" />
+<text text-anchor="middle" x="762.07" y="-328.63" font-family="Times,serif" font-size="8.00">Kapellplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge202" class="edge">
+<title>Vasaplatsen--Kapellplatsen</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M744.78,-386.81C752.4,-374.69 761.33,-352.67 763.28,-340.54" />
+</g>
+
+<g id="edge70" class="edge">
+<title>Vasa Viktoriagatan--Vasaplatsen</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M674.63,-385.71C683.88,-389.37 696.95,-392.98 708.63,-395.23" />
+</g>
+
+<g id="node47" class="node">
+<title>Handelsh&#246;gskolan</title>
+<g id="a_node47"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004370000" ns0:title="Handelsh&#246;gskolan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004370000" title="Handelsh&#246;gskolan">
+<polygon fill="white" stroke="black" points="676.88,-361.04 603.13,-361.04 603.13,-344.79 676.88,-344.79 676.88,-361.04" />
+<text text-anchor="middle" x="640.01" y="-349.44" font-family="Times,serif" font-size="8.00">Handelsh&#246;gskolan</text>
+</a>
+</g>
+</g>
+
+<g id="edge47" class="edge">
+<title>Vasa Viktoriagatan--Handelsh&#246;gskolan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M654.63,-368.7C652.4,-366.3 649.98,-363.68 647.76,-361.28" />
+</g>
+
+<g id="node48" class="node">
+<title>Brunnsgatan</title>
+<g id="a_node48"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001745000" ns0:title="Brunnsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001745000" title="Brunnsgatan">
+<polygon fill="white" stroke="black" points="659.71,-336.78 603.96,-336.78 603.96,-320.53 659.71,-320.53 659.71,-336.78" />
+<text text-anchor="middle" x="631.84" y="-325.18" font-family="Times,serif" font-size="8.00">Brunnsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge48" class="edge">
+<title>Handelsh&#246;gskolan--Brunnsgatan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M637.15,-344.43C636.34,-342.03 635.46,-339.41 634.65,-337.02" />
+</g>
+
+<g id="node49" class="node">
+<title>Seminariegatan</title>
+<g id="a_node49"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005763000" ns0:title="Seminariegatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005763000" title="Seminariegatan">
+<polygon fill="white" stroke="black" points="670.17,-312.52 603.92,-312.52 603.92,-296.27 670.17,-296.27 670.17,-312.52" />
+<text text-anchor="middle" x="637.04" y="-300.92" font-family="Times,serif" font-size="8.00">Seminariegatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge49" class="edge">
+<title>Brunnsgatan--Seminariegatan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M633.66,-320.17C634.17,-317.77 634.73,-315.15 635.25,-312.76" />
+</g>
+
+<g id="edge50" class="edge">
+<title>Seminariegatan--Olivedalsgatan</title>
+<path fill="none" stroke="yellow" stroke-width="2" d="M603.45,-304.53C601.05,-304.54 598.63,-304.55 596.23,-304.56" />
+</g>
+
+<g id="node51" class="node">
+<title>H&#246;gsbogatan</title>
+<g id="a_node51"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003360000" ns0:title="H&#246;gsbogatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003360000" title="H&#246;gsbogatan">
+<polygon fill="white" stroke="black" points="484.7,-247.47 427.45,-247.47 427.45,-231.22 484.7,-231.22 484.7,-247.47" />
+<text text-anchor="middle" x="456.08" y="-235.87" font-family="Times,serif" font-size="8.00">H&#246;gsbogatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge56" class="edge">
+<title>Bokekullsgatan--H&#246;gsbogatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M498.42,-232.25C493.99,-232.99 489.48,-233.75 485.13,-234.48" />
+</g>
+
+<g id="node52" class="node">
+<title>Klintens V&#228;g</title>
+<g id="a_node52"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003880000" ns0:title="Klintens V&#228;g" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003880000" title="Klintens V&#228;g">
+<polygon fill="white" stroke="black" points="470.02,-271.76 411.27,-271.76 411.27,-255.51 470.02,-255.51 470.02,-271.76" />
+<text text-anchor="middle" x="440.64" y="-260.16" font-family="Times,serif" font-size="8.00">Klintens V&#228;g</text>
+</a>
+</g>
+</g>
+
+<g id="edge57" class="edge">
+<title>H&#246;gsbogatan--Klintens V&#228;g</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M450.68,-247.84C449.15,-250.25 447.48,-252.87 445.96,-255.27" />
+</g>
+
+<g id="node53" class="node">
+<title>Godhemsgatan</title>
+<g id="a_node53"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002730000" ns0:title="Godhemsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002730000" title="Godhemsgatan">
+<polygon fill="white" stroke="black" points="513.48,-296.04 450.23,-296.04 450.23,-279.79 513.48,-279.79 513.48,-296.04" />
+<text text-anchor="middle" x="481.86" y="-284.44" font-family="Times,serif" font-size="8.00">Godhemsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge58" class="edge">
+<title>Klintens V&#228;g--Godhemsgatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M455.06,-272.13C459.05,-274.48 463.38,-277.03 467.38,-279.39" />
+</g>
+
+<g id="node54" class="node">
+<title>Mariaplan</title>
+<g id="a_node54"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004730000" ns0:title="Mariaplan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004730000" title="Mariaplan">
+<polygon fill="white" stroke="black" points="452.57,-323.33 403.57,-323.33 403.57,-307.08 452.57,-307.08 452.57,-323.33" />
+<text text-anchor="middle" x="428.07" y="-311.73" font-family="Times,serif" font-size="8.00">Mariaplan</text>
+</a>
+</g>
+</g>
+
+<g id="edge59" class="edge">
+<title>Godhemsgatan--Mariaplan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M450.03,-296.51C443.88,-299.74 438.08,-303.33 433.95,-306.61" />
+</g>
+
+<g id="node131" class="node">
+<title>Ekedal</title>
+<g id="a_node131"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002170000" ns0:title="Ekedal" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002170000" title="Ekedal">
+<polygon fill="white" stroke="black" points="521.63,-321.58 483.13,-321.58 483.13,-305.33 521.63,-305.33 521.63,-321.58" />
+<text text-anchor="middle" x="502.38" y="-309.98" font-family="Times,serif" font-size="8.00">Ekedal</text>
+</a>
+</g>
+</g>
+
+<g id="edge295" class="edge">
+<title>Godhemsgatan--Ekedal</title>
+<path fill="none" stroke="black" stroke-width="2" d="M488.58,-296.28C490.82,-299.07 493.32,-302.19 495.57,-304.99" />
+</g>
+
+<g id="edge331" class="edge">
+<title>Mariaplan--Marklandsgatan</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M444.16,-306.69C480.4,-287.49 568.11,-241.05 604.43,-221.81" />
+</g>
+
+<g id="edge294" class="edge">
+<title>Mariaplan--Godhemsgatan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M452.95,-310.03C461.49,-306.1 470.29,-301.02 475.95,-296.52" />
+</g>
+
+<g id="node55" class="node">
+<title>Ostindiegatan</title>
+<g id="a_node55"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005220000" ns0:title="Ostindiegatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005220000" title="Ostindiegatan">
+<polygon fill="white" stroke="black" points="387.5,-323.32 327.25,-323.32 327.25,-307.07 387.5,-307.07 387.5,-323.32" />
+<text text-anchor="middle" x="357.38" y="-311.72" font-family="Times,serif" font-size="8.00">Ostindiegatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge60" class="edge">
+<title>Mariaplan--Ostindiegatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M403.35,-315.2C398.25,-315.2 392.83,-315.2 387.56,-315.2" />
+</g>
+
+<g id="node56" class="node">
+<title>Vagnhallen Majorna</title>
+<g id="a_node56"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007200000" ns0:title="Vagnhallen Majorna" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007200000" title="Vagnhallen Majorna">
+<polygon fill="white" stroke="black" points="319.18,-345.88 238.68,-345.88 238.68,-329.63 319.18,-329.63 319.18,-345.88" />
+<text text-anchor="middle" x="278.93" y="-334.28" font-family="Times,serif" font-size="8.00">Vagnhallen Majorna</text>
+</a>
+</g>
+</g>
+
+<g id="edge61" class="edge">
+<title>Ostindiegatan--Vagnhallen Majorna</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M326.81,-317.19C313.89,-320.34 299.66,-324.93 290.08,-329.24" />
+</g>
+
+<g id="node118" class="node">
+<title>Sannaplan</title>
+<g id="a_node118"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005710000" ns0:title="Sannaplan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005710000" title="Sannaplan">
+<polygon fill="white" stroke="black" points="442.19,-299.06 393.19,-299.06 393.19,-282.81 442.19,-282.81 442.19,-299.06" />
+<text text-anchor="middle" x="417.69" y="-287.46" font-family="Times,serif" font-size="8.00">Sannaplan</text>
+</a>
+</g>
+</g>
+
+<g id="edge257" class="edge">
+<title>Ostindiegatan--Sannaplan</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M378.81,-306.57C384.5,-304.29 390.64,-301.82 396.33,-299.53" />
+</g>
+
+<g id="edge256" class="edge">
+<title>Vagnhallen Majorna--Ostindiegatan</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M319.56,-333.1C329.29,-330.31 338.91,-326.99 346.02,-323.81" />
+</g>
+
+<g id="node57" class="node">
+<title>Jaegerdorffsplatsen</title>
+<g id="a_node57"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003610000" ns0:title="Jaegerdorffsplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003610000" title="Jaegerdorffsplatsen">
+<polygon fill="white" stroke="black" points="332.38,-371.61 254.88,-371.61 254.88,-355.36 332.38,-355.36 332.38,-371.61" />
+<text text-anchor="middle" x="293.63" y="-360.01" font-family="Times,serif" font-size="8.00">Jaegerdorffsplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge62" class="edge">
+<title>Vagnhallen Majorna--Jaegerdorffsplatsen</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M277.23,-346.31C277.95,-349.19 279.38,-352.37 281.17,-355.22" />
+</g>
+
+<g id="edge255" class="edge">
+<title>Jaegerdorffsplatsen--Vagnhallen Majorna</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M295.34,-354.94C294.61,-352.05 293.18,-348.88 291.39,-346.02" />
+</g>
+
+<g id="node58" class="node">
+<title>Chapmans Torg</title>
+<g id="a_node58"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001980000" ns0:title="Chapmans Torg" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001980000" title="Chapmans Torg">
+<polygon fill="white" stroke="black" points="350.5,-395.86 285,-395.86 285,-379.61 350.5,-379.61 350.5,-395.86" />
+<text text-anchor="middle" x="317.75" y="-384.26" font-family="Times,serif" font-size="8.00">Chapmans Torg</text>
+</a>
+</g>
+</g>
+
+<g id="edge63" class="edge">
+<title>Jaegerdorffsplatsen--Chapmans Torg</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M294.41,-372.01C295.74,-374.41 297.69,-376.97 299.91,-379.34" />
+</g>
+
+<g id="edge254" class="edge">
+<title>Chapmans Torg--Jaegerdorffsplatsen</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M316.97,-379.21C315.64,-376.81 313.7,-374.25 311.47,-371.88" />
+</g>
+
+<g id="node59" class="node">
+<title>Kaptensgatan</title>
+<g id="a_node59"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003780000" ns0:title="Kaptensgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003780000" title="Kaptensgatan">
+<polygon fill="white" stroke="black" points="402.32,-420.75 342.82,-420.75 342.82,-404.5 402.32,-404.5 402.32,-420.75" />
+<text text-anchor="middle" x="372.57" y="-409.15" font-family="Times,serif" font-size="8.00">Kaptensgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge64" class="edge">
+<title>Chapmans Torg--Kaptensgatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M324.22,-396.23C328.93,-399.62 335.62,-403.27 342.53,-406.4" />
+</g>
+
+<g id="edge253" class="edge">
+<title>Kaptensgatan--Chapmans Torg</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M366.1,-404.13C362.04,-401.22 356.53,-398.1 350.66,-395.3" />
+</g>
+
+<g id="node60" class="node">
+<title>Stigbergstorget</title>
+<g id="a_node60"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006260000" ns0:title="Stigbergstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006260000" title="Stigbergstorget">
+<polygon fill="white" stroke="black" points="456.2,-446.36 392.95,-446.36 392.95,-430.11 456.2,-430.11 456.2,-446.36" />
+<text text-anchor="middle" x="424.57" y="-434.76" font-family="Times,serif" font-size="8.00">Stigbergstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge65" class="edge">
+<title>Kaptensgatan--Stigbergstorget</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M378.46,-421.17C382.15,-424.05 387.18,-427.13 392.57,-429.95" />
+</g>
+
+<g id="edge252" class="edge">
+<title>Stigbergstorget--Kaptensgatan</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M418.68,-429.69C414.58,-426.5 408.83,-423.04 402.77,-419.98" />
+</g>
+
+<g id="edge66" class="edge">
+<title>Stigbergstorget--Masthuggstorget</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M456.38,-433.79C460.38,-430.36 463.45,-426.35 464.58,-422.37" />
+</g>
+
+<g id="edge299" class="edge">
+<title>Stigbergstorget--Masthuggstorget</title>
+<path fill="none" stroke="black" stroke-width="2" d="M423.57,-429.81C424.45,-426.74 426.49,-423.65 429.21,-420.82" />
+</g>
+
+<g id="edge67" class="edge">
+<title>Masthuggstorget--J&#228;rntorget</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M475.23,-422.57C490.09,-425.73 514.96,-421.51 524.98,-413.35" />
+</g>
+
+<g id="edge300" class="edge">
+<title>Masthuggstorget--J&#228;rntorget</title>
+<path fill="none" stroke="black" stroke-width="2" d="M497.58,-409.25C500.21,-408.89 502.83,-408.52 505.38,-408.17" />
+</g>
+
+<g id="edge251" class="edge">
+<title>Masthuggstorget--Stigbergstorget</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M449.93,-422.45C446.16,-424.8 442.05,-427.36 438.27,-429.71" />
+</g>
+
+<g id="edge165" class="edge">
+<title>Hagakyrkan--Gr&#246;nsakstorget</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M585.9,-403.73C586.34,-406.53 587.39,-409.6 588.8,-412.38" />
+</g>
+
+<g id="edge302" class="edge">
+<title>Hagakyrkan--Gr&#246;nsakstorget</title>
+<path fill="none" stroke="black" stroke-width="2" d="M599.54,-403.53C601.01,-406.4 602.1,-409.59 602.53,-412.46" />
+</g>
+
+<g id="edge69" class="edge">
+<title>Hagakyrkan--Vasa Viktoriagatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M616.51,-388.35C619.94,-387.51 623.49,-386.65 627.02,-385.8" />
+</g>
+
+<g id="edge201" class="edge">
+<title>Valand--Vasaplatsen</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M751.72,-411.01C749.27,-408.61 746.61,-406 744.17,-403.6" />
+</g>
+
+<g id="edge72" class="edge">
+<title>Valand--Kungsportsplatsen</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M751.97,-411C733.97,-398.21 713.77,-413.87 722.39,-435.31" />
+</g>
+
+<g id="edge96" class="edge">
+<title>Valand--Kungsportsplatsen</title>
+<path fill="none" stroke="green" stroke-width="2" d="M765.1,-427.83C773.81,-449.28 753.69,-465 735.69,-452.35" />
+</g>
+
+<g id="edge121" class="edge">
+<title>Valand--Kungsportsplatsen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M762.23,-427.99C761.79,-430.42 760.66,-432.87 759.05,-435.18" />
+</g>
+
+<g id="edge266" class="edge">
+<title>Valand--Kungsportsplatsen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M748.75,-427.99C745.46,-430.39 741.88,-433.01 738.6,-435.41" />
+</g>
+
+<g id="edge73" class="edge">
+<title>Kungsportsplatsen--Brunnsparken</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M721.17,-435.35C703.62,-418.48 670.64,-434.91 674.3,-459.44" />
+</g>
+
+<g id="edge97" class="edge">
+<title>Kungsportsplatsen--Brunnsparken</title>
+<path fill="none" stroke="green" stroke-width="2" d="M689.45,-447.55C683.97,-451.11 679.49,-455.34 677.43,-459.58" />
+</g>
+
+<g id="edge122" class="edge">
+<title>Kungsportsplatsen--Brunnsparken</title>
+<path fill="none" stroke="red" stroke-width="2" d="M709.63,-452.26C704.77,-454.61 699.5,-457.16 694.63,-459.51" />
+</g>
+
+<g id="edge267" class="edge">
+<title>Kungsportsplatsen--Brunnsparken</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M726.78,-452.18C723.85,-458.25 715.94,-464.33 707.21,-468.42" />
+</g>
+
+<g id="edge200" class="edge">
+<title>Kungsportsplatsen--Valand</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M725.3,-435.27C726.56,-428.31 733.53,-421.16 741.18,-417.51" />
+</g>
+
+<g id="node66" class="node">
+<title>Sanatoriegatan</title>
+<g id="a_node66"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005650000" ns0:title="Sanatoriegatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005650000" title="Sanatoriegatan">
+<polygon fill="white" stroke="black" points="1103.61,-495.22 1039.61,-495.22 1039.61,-478.97 1103.61,-478.97 1103.61,-495.22" />
+<text text-anchor="middle" x="1071.61" y="-483.62" font-family="Times,serif" font-size="8.00">Sanatoriegatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge82" class="edge">
+<title>Solrosgatan--Sanatoriegatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1090.76,-503.82C1089.81,-501.17 1088.19,-498.29 1086.25,-495.64" />
+</g>
+
+<g id="edge109" class="edge">
+<title>Solrosgatan--Sanatoriegatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1075.37,-503.63C1073.43,-500.98 1071.81,-498.1 1070.86,-495.46" />
+</g>
+
+<g id="node67" class="node">
+<title>Virginsgatan</title>
+<g id="a_node67"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007470000" ns0:title="Virginsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007470000" title="Virginsgatan">
+<polygon fill="white" stroke="black" points="1087.9,-470.33 1032.15,-470.33 1032.15,-454.08 1087.9,-454.08 1087.9,-470.33" />
+<text text-anchor="middle" x="1060.03" y="-458.73" font-family="Times,serif" font-size="8.00">Virginsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge83" class="edge">
+<title>Sanatoriegatan--Virginsgatan</title>
+<path fill="none" stroke="blue" stroke-width="2" d="M1074.14,-478.59C1073.69,-476 1072.68,-473.18 1071.35,-470.6" />
+</g>
+
+<g id="edge110" class="edge">
+<title>Sanatoriegatan--Virginsgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1060.27,-478.66C1058.91,-476.03 1057.9,-473.16 1057.47,-470.54" />
+</g>
+
+<g id="node74" class="node">
+<title>Welandergatan</title>
+<g id="a_node74"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007370000" ns0:title="Welandergatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007370000" title="Welandergatan">
+<polygon fill="white" stroke="black" points="1185.01,-474.71 1121.76,-474.71 1121.76,-458.46 1185.01,-458.46 1185.01,-474.71" />
+<text text-anchor="middle" x="1153.38" y="-463.11" font-family="Times,serif" font-size="8.00">Welandergatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge111" class="edge">
+<title>Virginsgatan--Welandergatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1088.29,-463.53C1098.7,-464.02 1110.57,-464.58 1121.29,-465.08" />
+</g>
+
+<g id="edge95" class="edge">
+<title>Berzeliigatan--Valand</title>
+<path fill="none" stroke="green" stroke-width="2" d="M781.46,-391.37C774.08,-397.29 766.52,-404.98 762.56,-410.97" />
+</g>
+
+<g id="edge120" class="edge">
+<title>Berzeliigatan--Valand</title>
+<path fill="none" stroke="red" stroke-width="2" d="M798.23,-391.26C794.37,-397.22 786.84,-404.92 779.45,-410.9" />
+</g>
+
+<g id="edge197" class="edge">
+<title>Gamlestads Torg--Centralstationen</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M854.81,-566.06C840.12,-545.92 789.79,-496.38 764.26,-476.35" />
+</g>
+
+<g id="edge246" class="edge">
+<title>Gamlestads Torg--Centralstationen</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M843.93,-566.22C818.5,-546.28 768.27,-496.87 753.41,-476.6" />
+</g>
+
+<g id="node70" class="node">
+<title>Hj&#228;llbo</title>
+<g id="a_node70"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003200000" ns0:title="Hj&#228;llbo" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003200000" title="Hj&#228;llbo">
+<polygon fill="white" stroke="black" points="948.85,-828.55 908.85,-828.55 908.85,-812.3 948.85,-812.3 948.85,-828.55" />
+<text text-anchor="middle" x="928.85" y="-816.95" font-family="Times,serif" font-size="8.00">Hj&#228;llbo</text>
+</a>
+</g>
+</g>
+
+<g id="edge100" class="edge">
+<title>Gamlestads Torg--Hj&#228;llbo</title>
+<path fill="none" stroke="green" stroke-width="2" d="M855.95,-582.93C855.19,-620.79 898.48,-773.59 920.33,-811.8" />
+</g>
+
+<g id="node105" class="node">
+<title>SKF</title>
+<g id="a_node105"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005862000" ns0:title="SKF" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005862000" title="SKF">
+<polygon fill="cyan" stroke="black" points="932.76,-591.05 901.76,-591.05 901.76,-574.8 932.76,-574.8 932.76,-591.05" />
+<text text-anchor="middle" x="917.26" y="-579.45" font-family="Times,serif" font-size="8.00">SKF</text>
+</a>
+</g>
+</g>
+
+<g id="edge307" class="edge">
+<title>Gamlestads Torg--SKF</title>
+<path fill="none" stroke="black" stroke-width="2" d="M862.53,-583.08C871.54,-591.1 893.9,-594.99 907.11,-591.51" />
+</g>
+
+<g id="node106" class="node">
+<title>Ejdergatan</title>
+<g id="a_node106"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012422000" ns0:title="Ejdergatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012422000" title="Ejdergatan">
+<polygon fill="green" stroke="black" points="947.7,-558.34 897.2,-558.34 897.2,-542.09 947.7,-542.09 947.7,-558.34" />
+<text text-anchor="middle" x="922.45" y="-546.74" font-family="Times,serif" font-size="8.00">Ejdergatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge148" class="edge">
+<title>Gamlestads Torg--Ejdergatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M894.08,-568.23C901.6,-565.31 908.86,-561.96 914.17,-558.81" />
+</g>
+
+<g id="edge222" class="edge">
+<title>Gamlestads Torg--Ejdergatan</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M866.83,-565.96C874.42,-561.44 886.06,-556.48 896.74,-553.01" />
+</g>
+
+<g id="edge221" class="edge">
+<title>Hj&#228;llbo--Gamlestads Torg</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M931.56,-811.98C932.32,-774.12 889.04,-621.32 867.18,-583.11" />
+</g>
+
+<g id="edge245" class="edge">
+<title>Hj&#228;llbo--Gamlestads Torg</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M926.43,-811.96C915.63,-774.12 871.85,-620.68 861.07,-582.91" />
+</g>
+
+<g id="node71" class="node">
+<title>Hammarkullen</title>
+<g id="a_node71"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003080000" ns0:title="Hammarkullen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003080000" title="Hammarkullen">
+<polygon fill="white" stroke="black" points="1040.36,-896.72 976.36,-896.72 976.36,-880.47 1040.36,-880.47 1040.36,-896.72" />
+<text text-anchor="middle" x="1008.36" y="-885.12" font-family="Times,serif" font-size="8.00">Hammarkullen</text>
+</a>
+</g>
+</g>
+
+<g id="edge101" class="edge">
+<title>Hj&#228;llbo--Hammarkullen</title>
+<path fill="none" stroke="green" stroke-width="2" d="M928.87,-829.05C934.56,-842.91 959.38,-866.58 980.05,-880.11" />
+</g>
+
+<g id="edge220" class="edge">
+<title>Hammarkullen--Hj&#228;llbo</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M1008.33,-879.97C1001.88,-864.26 970.84,-835.93 949.14,-824.08" />
+</g>
+
+<g id="edge244" class="edge">
+<title>Hammarkullen--Hj&#228;llbo</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M998.61,-880.23C983.35,-867.15 953.98,-841.98 938.67,-828.86" />
+</g>
+
+<g id="node72" class="node">
+<title>Stor&#229;s</title>
+<g id="a_node72"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006360000" ns0:title="Stor&#229;s" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006360000" title="Stor&#229;s">
+<polygon fill="white" stroke="black" points="1074.67,-926.25 1038.42,-926.25 1038.42,-910 1074.67,-910 1074.67,-926.25" />
+<text text-anchor="middle" x="1056.54" y="-914.65" font-family="Times,serif" font-size="8.00">Stor&#229;s</text>
+</a>
+</g>
+</g>
+
+<g id="edge102" class="edge">
+<title>Hammarkullen--Stor&#229;s</title>
+<path fill="none" stroke="green" stroke-width="2" d="M1007.95,-897.03C1011.47,-906.41 1025.82,-916.95 1038.28,-920.86" />
+</g>
+
+<g id="edge219" class="edge">
+<title>Stor&#229;s--Hammarkullen</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M1056.95,-909.68C1054.74,-903.79 1048.25,-897.44 1040.65,-892.56" />
+</g>
+
+<g id="edge243" class="edge">
+<title>Stor&#229;s--Hammarkullen</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M1042.61,-909.58C1036.27,-905.7 1028.78,-901.11 1022.43,-897.21" />
+</g>
+
+<g id="node73" class="node">
+<title>Angered Centrum</title>
+<g id="a_node73"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001075000" ns0:title="Angered Centrum" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001075000" title="Angered Centrum">
+<polygon fill="white" stroke="black" points="1108.55,-991.18 1034.8,-991.18 1034.8,-974.93 1108.55,-974.93 1108.55,-991.18" />
+<text text-anchor="middle" x="1071.67" y="-979.58" font-family="Times,serif" font-size="8.00">Angered Centrum</text>
+</a>
+</g>
+</g>
+
+<g id="edge103" class="edge">
+<title>Stor&#229;s--Angered Centrum</title>
+<path fill="none" stroke="green" stroke-width="2" d="M1049.78,-926.51C1046.54,-939.04 1051.3,-962.18 1059.12,-974.68" />
+</g>
+
+<g id="edge218" class="edge">
+<title>Angered Centrum--Stor&#229;s</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M1078.43,-974.67C1081.68,-962.14 1076.92,-939 1069.1,-926.49" />
+</g>
+
+<g id="edge242" class="edge">
+<title>Angered Centrum--Stor&#229;s</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M1069.7,-974.57C1066.78,-962.06 1061.36,-938.8 1058.47,-926.41" />
+</g>
+
+<g id="node75" class="node">
+<title>T&#246;pelsgatan</title>
+<g id="a_node75"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007150000" ns0:title="T&#246;pelsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007150000" title="T&#246;pelsgatan">
+<polygon fill="white" stroke="black" points="1174.16,-450.17 1119.16,-450.17 1119.16,-433.92 1174.16,-433.92 1174.16,-450.17" />
+<text text-anchor="middle" x="1146.66" y="-438.57" font-family="Times,serif" font-size="8.00">T&#246;pelsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge112" class="edge">
+<title>Welandergatan--T&#246;pelsgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1151.03,-458C1150.36,-455.57 1149.64,-452.92 1148.97,-450.5" />
+</g>
+
+<g id="node76" class="node">
+<title>B&#246;gatan</title>
+<g id="a_node76"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001900000" ns0:title="B&#246;gatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001900000" title="B&#246;gatan">
+<polygon fill="white" stroke="black" points="1109.99,-425.19 1067.74,-425.19 1067.74,-408.94 1109.99,-408.94 1109.99,-425.19" />
+<text text-anchor="middle" x="1088.86" y="-413.59" font-family="Times,serif" font-size="8.00">B&#246;gatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge113" class="edge">
+<title>T&#246;pelsgatan--B&#246;gatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1126.77,-433.45C1120.89,-430.91 1114.46,-428.13 1108.59,-425.59" />
+</g>
+
+<g id="node77" class="node">
+<title>Ekmanska</title>
+<g id="a_node77"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002200000" ns0:title="Ekmanska" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002200000" title="Ekmanska">
+<polygon fill="white" stroke="black" points="1058.86,-402.62 1009.86,-402.62 1009.86,-386.37 1058.86,-386.37 1058.86,-402.62" />
+<text text-anchor="middle" x="1034.36" y="-391.02" font-family="Times,serif" font-size="8.00">Ekmanska</text>
+</a>
+</g>
+</g>
+
+<g id="edge114" class="edge">
+<title>B&#246;gatan--Ekmanska</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1068.26,-408.53C1063.92,-406.74 1059.34,-404.84 1054.99,-403.04" />
+</g>
+
+<g id="node78" class="node">
+<title>B&#228;ckeliden</title>
+<g id="a_node78"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001850000" ns0:title="B&#228;ckeliden" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001850000" title="B&#228;ckeliden">
+<polygon fill="white" stroke="black" points="1001.57,-413.52 949.57,-413.52 949.57,-397.27 1001.57,-397.27 1001.57,-413.52" />
+<text text-anchor="middle" x="975.57" y="-401.92" font-family="Times,serif" font-size="8.00">B&#228;ckeliden</text>
+</a>
+</g>
+</g>
+
+<g id="edge115" class="edge">
+<title>Ekmanska--B&#228;ckeliden</title>
+<path fill="none" stroke="red" stroke-width="2" d="M1009.43,-399.11C1006.93,-399.58 1004.38,-400.05 1001.86,-400.52" />
+</g>
+
+<g id="node79" class="node">
+<title>Sankt Sigfrids Plan</title>
+<g id="a_node79"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005700000" ns0:title="Sankt Sigfrids Plan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005700000" title="Sankt Sigfrids Plan">
+<polygon fill="white" stroke="black" points="996.19,-389.19 917.94,-389.19 917.94,-372.94 996.19,-372.94 996.19,-389.19" />
+<text text-anchor="middle" x="957.07" y="-377.59" font-family="Times,serif" font-size="8.00">Sankt Sigfrids Plan</text>
+</a>
+</g>
+</g>
+
+<g id="edge116" class="edge">
+<title>B&#228;ckeliden--Sankt Sigfrids Plan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M969.1,-396.88C967.27,-394.47 965.27,-391.85 963.44,-389.45" />
+</g>
+
+<g id="node80" class="node">
+<title>Liseberg Station</title>
+<g id="a_node80"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004524000" ns0:title="Liseberg Station" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004524000" title="Liseberg Station">
+<polygon fill="white" stroke="black" points="927.2,-364.8 858.7,-364.8 858.7,-348.55 927.2,-348.55 927.2,-364.8" />
+<text text-anchor="middle" x="892.95" y="-353.2" font-family="Times,serif" font-size="8.00">Liseberg Station</text>
+</a>
+</g>
+</g>
+
+<g id="edge117" class="edge">
+<title>Sankt Sigfrids Plan--Liseberg Station</title>
+<path fill="none" stroke="red" stroke-width="2" d="M934.64,-372.53C928.43,-370.17 921.69,-367.61 915.47,-365.24" />
+</g>
+
+<g id="edge118" class="edge">
+<title>Liseberg Station--Korsv&#228;gen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M858.36,-356.62C855.89,-356.62 853.42,-356.62 851.02,-356.61" />
+</g>
+
+<g id="node82" class="node">
+<title>Frihamnen</title>
+<g id="a_node82"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002470000" ns0:title="Frihamnen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002470000" title="Frihamnen">
+<polygon fill="white" stroke="black" points="861.94,-558.34 811.44,-558.34 811.44,-542.09 861.94,-542.09 861.94,-558.34" />
+<text text-anchor="middle" x="836.69" y="-546.74" font-family="Times,serif" font-size="8.00">Frihamnen</text>
+</a>
+</g>
+</g>
+
+<g id="edge124" class="edge">
+<title>Lilla Bommen--Frihamnen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M654.62,-521.41C692.8,-531.46 770.57,-545.75 811,-550.19" />
+</g>
+
+<g id="edge270" class="edge">
+<title>Lilla Bommen--Frihamnen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M663.87,-513.5C705.62,-518.59 778.25,-532.07 814.62,-541.65" />
+</g>
+
+<g id="node83" class="node">
+<title>Hjalmar Brantingsplatsen</title>
+<g id="a_node83"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003180000" ns0:title="Hjalmar Brantingsplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003180000" title="Hjalmar Brantingsplatsen">
+<polygon fill="white" stroke="black" points="802.28,-563.17 703.78,-563.17 703.78,-546.92 802.28,-546.92 802.28,-563.17" />
+<text text-anchor="middle" x="753.03" y="-551.57" font-family="Times,serif" font-size="8.00">Hjalmar Brantingsplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge125" class="edge">
+<title>Frihamnen--Hjalmar Brantingsplatsen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M825.9,-541.6C808.44,-536.54 774.53,-538.88 759.95,-546.55" />
+</g>
+
+<g id="edge170" class="edge">
+<title>Frihamnen--Hjalmar Brantingsplatsen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M829.73,-558.73C815.09,-566.41 781.04,-568.74 763.65,-563.62" />
+</g>
+
+<g id="edge271" class="edge">
+<title>Frihamnen--Hjalmar Brantingsplatsen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M811.13,-551.69C808.34,-551.85 805.44,-552.02 802.49,-552.19" />
+</g>
+
+<g id="node84" class="node">
+<title>V&#229;gm&#228;stareplatsen</title>
+<g id="a_node84"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007520000" ns0:title="V&#229;gm&#228;stareplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007520000" title="V&#229;gm&#228;stareplatsen">
+<polygon fill="white" stroke="black" points="688.75,-562.48 611.25,-562.48 611.25,-546.23 688.75,-546.23 688.75,-562.48" />
+<text text-anchor="middle" x="650" y="-550.88" font-family="Times,serif" font-size="8.00">V&#229;gm&#228;stareplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge126" class="edge">
+<title>Hjalmar Brantingsplatsen--V&#229;gm&#228;stareplatsen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M742.83,-546.49C723.33,-539.74 680.92,-539.39 660.89,-545.75" />
+</g>
+
+<g id="edge171" class="edge">
+<title>Hjalmar Brantingsplatsen--V&#229;gm&#228;stareplatsen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M742.33,-563.59C722.44,-569.99 680.01,-569.69 660.37,-562.97" />
+</g>
+
+<g id="edge272" class="edge">
+<title>Hjalmar Brantingsplatsen--V&#229;gm&#228;stareplatsen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M703.32,-554.71C698.59,-554.68 693.84,-554.65 689.22,-554.62" />
+</g>
+
+<g id="node85" class="node">
+<title>Wieselgrensplatsen</title>
+<g id="a_node85"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007430000" ns0:title="Wieselgrensplatsen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007430000" title="Wieselgrensplatsen">
+<polygon fill="white" stroke="black" points="601.27,-559.36 523.02,-559.36 523.02,-543.11 601.27,-543.11 601.27,-559.36" />
+<text text-anchor="middle" x="562.14" y="-547.76" font-family="Times,serif" font-size="8.00">Wieselgrensplatsen</text>
+</a>
+</g>
+</g>
+
+<g id="edge127" class="edge">
+<title>V&#229;gm&#228;stareplatsen--Wieselgrensplatsen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M642.18,-545.85C626.28,-538.5 590.18,-536.98 572.41,-542.66" />
+</g>
+
+<g id="edge172" class="edge">
+<title>V&#229;gm&#228;stareplatsen--Wieselgrensplatsen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M639.6,-562.98C621.71,-568.64 585.51,-567.07 569.76,-559.65" />
+</g>
+
+<g id="edge273" class="edge">
+<title>V&#229;gm&#228;stareplatsen--Wieselgrensplatsen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M610.95,-552.97C607.84,-552.86 604.69,-552.75 601.57,-552.64" />
+</g>
+
+<g id="node86" class="node">
+<title>Rambergsvallen</title>
+<g id="a_node86"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005440000" ns0:title="Rambergsvallen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005440000" title="Rambergsvallen">
+<polygon fill="white" stroke="black" points="513.25,-536.04 446.25,-536.04 446.25,-519.79 513.25,-519.79 513.25,-536.04" />
+<text text-anchor="middle" x="479.75" y="-524.44" font-family="Times,serif" font-size="8.00">Rambergsvallen</text>
+</a>
+</g>
+</g>
+
+<g id="edge128" class="edge">
+<title>Wieselgrensplatsen--Rambergsvallen</title>
+<path fill="none" stroke="red" stroke-width="2" d="M558.67,-542.86C550.75,-535.06 531.35,-527.51 513.74,-523.94" />
+</g>
+
+<g id="edge173" class="edge">
+<title>Wieselgrensplatsen--Rambergsvallen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M522.59,-553.97C506.47,-550.03 490.01,-543.16 483.02,-536.11" />
+</g>
+
+<g id="edge274" class="edge">
+<title>Wieselgrensplatsen--Rambergsvallen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M531.93,-542.69C524.76,-540.66 517.12,-538.5 509.96,-536.47" />
+</g>
+
+<g id="node87" class="node">
+<title>Gropeg&#229;rdsgatan</title>
+<g id="a_node87"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002790000" ns0:title="Gropeg&#229;rdsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002790000" title="Gropeg&#229;rdsgatan">
+<polygon fill="white" stroke="black" points="438.12,-517.01 367.37,-517.01 367.37,-500.76 438.12,-500.76 438.12,-517.01" />
+<text text-anchor="middle" x="402.74" y="-505.41" font-family="Times,serif" font-size="8.00">Gropeg&#229;rdsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge129" class="edge">
+<title>Rambergsvallen--Gropeg&#229;rdsgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M475.99,-519.36C468.91,-512.77 453.36,-506.88 438.39,-503.94" />
+</g>
+
+<g id="edge174" class="edge">
+<title>Rambergsvallen--Gropeg&#229;rdsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M446.14,-533.24C430.42,-530.42 413.6,-524.22 406.31,-517.25" />
+</g>
+
+<g id="edge275" class="edge">
+<title>Rambergsvallen--Gropeg&#229;rdsgatan</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M445.75,-519.51C443.01,-518.84 440.24,-518.15 437.49,-517.47" />
+</g>
+
+<g id="node88" class="node">
+<title>Eketr&#228;gatan</title>
+<g id="a_node88"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002190000" ns0:title="Eketr&#228;gatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002190000" title="Eketr&#228;gatan">
+<polygon fill="white" stroke="black" points="379.02,-492 324.02,-492 324.02,-475.75 379.02,-475.75 379.02,-492" />
+<text text-anchor="middle" x="351.52" y="-480.4" font-family="Times,serif" font-size="8.00">Eketr&#228;gatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge130" class="edge">
+<title>Gropeg&#229;rdsgatan--Eketr&#228;gatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M402.31,-500.43C398.97,-493.66 389.45,-486.79 379.47,-482.62" />
+</g>
+
+<g id="edge175" class="edge">
+<title>Gropeg&#229;rdsgatan--Eketr&#228;gatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M367.1,-506.32C360.29,-502.39 354.54,-497.42 352.04,-492.48" />
+</g>
+
+<g id="edge276" class="edge">
+<title>Gropeg&#229;rdsgatan--Eketr&#228;gatan</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M385.12,-500.28C379.91,-497.73 374.21,-494.95 369.01,-492.41" />
+</g>
+
+<g id="node89" class="node">
+<title>S&#228;l&#246;fjordsgatan</title>
+<g id="a_node89"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006570000" ns0:title="S&#228;l&#246;fjordsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006570000" title="S&#228;l&#246;fjordsgatan">
+<polygon fill="white" stroke="black" points="321.78,-467.19 255.53,-467.19 255.53,-450.94 321.78,-450.94 321.78,-467.19" />
+<text text-anchor="middle" x="288.65" y="-455.59" font-family="Times,serif" font-size="8.00">S&#228;l&#246;fjordsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge131" class="edge">
+<title>Eketr&#228;gatan--S&#228;l&#246;fjordsgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M350.01,-475.62C345.49,-468.84 333.93,-462.01 322.01,-457.77" />
+</g>
+
+<g id="edge176" class="edge">
+<title>Eketr&#228;gatan--S&#228;l&#246;fjordsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M323.67,-486.93C309.98,-483.03 295.41,-475.16 290.18,-467.34" />
+</g>
+
+<g id="edge277" class="edge">
+<title>Eketr&#228;gatan--S&#228;l&#246;fjordsgatan</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M329.89,-475.33C323.49,-472.81 316.5,-470.05 310.12,-467.53" />
+</g>
+
+<g id="node90" class="node">
+<title>V&#229;rv&#228;derstorget</title>
+<g id="a_node90"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007550000" ns0:title="V&#229;rv&#228;derstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007550000" title="V&#229;rv&#228;derstorget">
+<polygon fill="white" stroke="black" points="247.47,-458.64 179.72,-458.64 179.72,-442.39 247.47,-442.39 247.47,-458.64" />
+<text text-anchor="middle" x="213.6" y="-447.04" font-family="Times,serif" font-size="8.00">V&#229;rv&#228;derstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge132" class="edge">
+<title>S&#228;l&#246;fjordsgatan--V&#229;rv&#228;derstorget</title>
+<path fill="none" stroke="red" stroke-width="2" d="M283.63,-450.75C271.91,-442.46 242.6,-438.37 225.83,-441.92" />
+</g>
+
+<g id="edge177" class="edge">
+<title>S&#228;l&#246;fjordsgatan--V&#229;rv&#228;derstorget</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M276.46,-467.65C259.86,-471.18 230.93,-467.2 218.97,-459.06" />
+</g>
+
+<g id="edge278" class="edge">
+<title>S&#228;l&#246;fjordsgatan--V&#229;rv&#228;derstorget</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M255.08,-455.24C252.58,-454.95 250.06,-454.67 247.56,-454.38" />
+</g>
+
+<g id="node91" class="node">
+<title>Mildv&#228;dersgatan</title>
+<g id="a_node91"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004810000" ns0:title="Mildv&#228;dersgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004810000" title="Mildv&#228;dersgatan">
+<polygon fill="white" stroke="black" points="234.54,-483.1 165.29,-483.1 165.29,-466.85 234.54,-466.85 234.54,-483.1" />
+<text text-anchor="middle" x="199.91" y="-471.5" font-family="Times,serif" font-size="8.00">Mildv&#228;dersgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge133" class="edge">
+<title>V&#229;rv&#228;derstorget--Mildv&#228;dersgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M193.77,-458.85C192.93,-461.33 192.7,-464.01 193.29,-466.55" />
+</g>
+
+<g id="edge178" class="edge">
+<title>V&#229;rv&#228;derstorget--Mildv&#228;dersgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M220.23,-458.96C220.81,-461.52 220.58,-464.22 219.71,-466.72" />
+</g>
+
+<g id="edge279" class="edge">
+<title>V&#229;rv&#228;derstorget--Mildv&#228;dersgatan</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M208.81,-459.07C207.46,-461.49 205.98,-464.13 204.63,-466.55" />
+</g>
+
+<g id="node92" class="node">
+<title>&#214;nskev&#228;dersgatan</title>
+<g id="a_node92"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007840000" ns0:title="&#214;nskev&#228;dersgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007840000" title="&#214;nskev&#228;dersgatan">
+<polygon fill="white" stroke="black" points="315.93,-513.55 241.43,-513.55 241.43,-497.3 315.93,-497.3 315.93,-513.55" />
+<text text-anchor="middle" x="278.68" y="-501.95" font-family="Times,serif" font-size="8.00">&#214;nskev&#228;dersgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge134" class="edge">
+<title>Mildv&#228;dersgatan--&#214;nskev&#228;dersgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M202.14,-483.16C208.42,-491.14 225.06,-499.89 241.27,-505.25" />
+</g>
+
+<g id="edge179" class="edge">
+<title>Mildv&#228;dersgatan--&#214;nskev&#228;dersgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M234.89,-474.38C251.63,-479.57 269.42,-488.65 276.21,-496.95" />
+</g>
+
+<g id="edge280" class="edge">
+<title>Mildv&#228;dersgatan--&#214;nskev&#228;dersgatan</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M221.85,-483.46C232.69,-487.65 245.73,-492.69 256.58,-496.89" />
+</g>
+
+<g id="node93" class="node">
+<title>Friskv&#228;derstorget</title>
+<g id="a_node93"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002420000" ns0:title="Friskv&#228;derstorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002420000" title="Friskv&#228;derstorget">
+<polygon fill="white" stroke="black" points="300.12,-537.82 228.62,-537.82 228.62,-521.57 300.12,-521.57 300.12,-537.82" />
+<text text-anchor="middle" x="264.37" y="-526.22" font-family="Times,serif" font-size="8.00">Friskv&#228;derstorget</text>
+</a>
+</g>
+</g>
+
+<g id="edge135" class="edge">
+<title>&#214;nskev&#228;dersgatan--Friskv&#228;derstorget</title>
+<path fill="none" stroke="red" stroke-width="2" d="M258.41,-514C257.67,-516.34 257.47,-518.82 257.97,-521.19" />
+</g>
+
+<g id="edge180" class="edge">
+<title>&#214;nskev&#228;dersgatan--Friskv&#228;derstorget</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M285.11,-514.04C285.59,-516.46 285.36,-518.99 284.56,-521.35" />
+</g>
+
+<g id="edge281" class="edge">
+<title>&#214;nskev&#228;dersgatan--Friskv&#228;derstorget</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M273.68,-513.92C272.26,-516.32 270.72,-518.94 269.3,-521.33" />
+</g>
+
+<g id="node94" class="node">
+<title>V&#228;derilsgatan</title>
+<g id="a_node94"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007560000" ns0:title="V&#228;derilsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007560000" title="V&#228;derilsgatan">
+<polygon fill="white" stroke="black" points="283.47,-562.09 222.47,-562.09 222.47,-545.84 283.47,-545.84 283.47,-562.09" />
+<text text-anchor="middle" x="252.97" y="-550.49" font-family="Times,serif" font-size="8.00">V&#228;derilsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge136" class="edge">
+<title>Friskv&#228;derstorget--V&#228;derilsgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M245.67,-538.14C244.94,-540.55 244.84,-543.14 245.51,-545.58" />
+</g>
+
+<g id="edge181" class="edge">
+<title>Friskv&#228;derstorget--V&#228;derilsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M271.84,-538.09C272.5,-540.51 272.4,-543.06 271.7,-545.44" />
+</g>
+
+<g id="edge282" class="edge">
+<title>Friskv&#228;derstorget--V&#228;derilsgatan</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M260.39,-538.18C259.26,-540.59 258.03,-543.21 256.9,-545.6" />
+</g>
+
+<g id="node95" class="node">
+<title>Temperaturgatan</title>
+<g id="a_node95"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006700000" ns0:title="Temperaturgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006700000" title="Temperaturgatan">
+<polygon fill="white" stroke="black" points="277.7,-597.72 208.45,-597.72 208.45,-581.47 277.7,-581.47 277.7,-597.72" />
+<text text-anchor="middle" x="243.08" y="-586.12" font-family="Times,serif" font-size="8.00">Temperaturgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge137" class="edge">
+<title>V&#228;derilsgatan--Temperaturgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M244.23,-562.44C241.65,-568.1 239.83,-575.49 239.73,-581.16" />
+</g>
+
+<g id="edge182" class="edge">
+<title>V&#228;derilsgatan--Temperaturgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M256.32,-562.3C256.25,-567.94 254.44,-575.34 251.86,-581.03" />
+</g>
+
+<g id="node96" class="node">
+<title>Varmfrontsgatan</title>
+<g id="a_node96"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007280000" ns0:title="Varmfrontsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007280000" title="Varmfrontsgatan">
+<polygon fill="white" stroke="black" points="283.16,-624.19 213.91,-624.19 213.91,-607.94 283.16,-607.94 283.16,-624.19" />
+<text text-anchor="middle" x="248.53" y="-612.59" font-family="Times,serif" font-size="8.00">Varmfrontsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge138" class="edge">
+<title>Temperaturgatan--Varmfrontsgatan</title>
+<path fill="none" stroke="red" stroke-width="2" d="M238.6,-598.06C238.53,-601.14 239.1,-604.61 240.14,-607.68" />
+</g>
+
+<g id="edge183" class="edge">
+<title>Temperaturgatan--Varmfrontsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M251.53,-598.13C252.52,-601.12 253.06,-604.46 253.01,-607.45" />
+</g>
+
+<g id="node97" class="node">
+<title>Aprilgatan</title>
+<g id="a_node97"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001120000" ns0:title="Aprilgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001120000" title="Aprilgatan">
+<polygon fill="white" stroke="black" points="1015.47,-791.05 964.97,-791.05 964.97,-774.8 1015.47,-774.8 1015.47,-791.05" />
+<text text-anchor="middle" x="990.22" y="-779.45" font-family="Times,serif" font-size="8.00">Aprilgatan</text>
+</a>
+</g>
+</g>
+
+<g id="node98" class="node">
+<title>Allhelgonakyrkan</title>
+<g id="a_node98"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001040000" ns0:title="Allhelgonakyrkan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001040000" title="Allhelgonakyrkan">
+<polygon fill="cyan" stroke="black" points="1008.49,-742.51 935.49,-742.51 935.49,-726.26 1008.49,-726.26 1008.49,-742.51" />
+<text text-anchor="middle" x="971.99" y="-730.91" font-family="Times,serif" font-size="8.00">Allhelgonakyrkan</text>
+</a>
+</g>
+</g>
+
+<g id="edge139" class="edge">
+<title>Aprilgatan--Allhelgonakyrkan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M987.05,-774.47C983.7,-765.56 978.46,-751.62 975.13,-742.74" />
+</g>
+
+<g id="node99" class="node">
+<title>Kortedala Torg</title>
+<g id="a_node99"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004000000" ns0:title="Kortedala Torg" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004000000" title="Kortedala Torg">
+<polygon fill="cyan" stroke="black" points="1007.15,-718.25 942.4,-718.25 942.4,-702 1007.15,-702 1007.15,-718.25" />
+<text text-anchor="middle" x="974.78" y="-706.65" font-family="Times,serif" font-size="8.00">Kortedala Torg</text>
+</a>
+</g>
+</g>
+
+<g id="edge140" class="edge">
+<title>Allhelgonakyrkan--Kortedala Torg</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M986.41,-725.76C987.07,-723.42 987.04,-720.89 986.26,-718.55" />
+</g>
+
+<g id="edge189" class="edge">
+<title>Allhelgonakyrkan--Kortedala Torg</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M960.46,-725.82C959.71,-723.47 959.71,-720.92 960.41,-718.58" />
+</g>
+
+<g id="node116" class="node">
+<title>Januarigatan</title>
+<g id="a_node116"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003620000" ns0:title="Januarigatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003620000" title="Januarigatan">
+<polygon fill="cyan" stroke="black" points="1025.16,-766.77 968.66,-766.77 968.66,-750.52 1025.16,-750.52 1025.16,-766.77" />
+<text text-anchor="middle" x="996.91" y="-755.17" font-family="Times,serif" font-size="8.00">Januarigatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge315" class="edge">
+<title>Allhelgonakyrkan--Januarigatan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M972.99,-742.97C974.39,-745.39 976.41,-747.95 978.72,-750.33" />
+</g>
+
+<g id="edge314" class="edge">
+<title>Kortedala Torg--Allhelgonakyrkan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M973.8,-718.61C973.53,-721.02 973.22,-723.63 972.95,-726.03" />
+</g>
+
+<g id="node100" class="node">
+<title>Runstavsgatan</title>
+<g id="a_node100"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005510000" ns0:title="Runstavsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005510000" title="Runstavsgatan">
+<polygon fill="cyan" stroke="black" points="1003.94,-694 942.19,-694 942.19,-677.75 1003.94,-677.75 1003.94,-694" />
+<text text-anchor="middle" x="973.07" y="-682.4" font-family="Times,serif" font-size="8.00">Runstavsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge141" class="edge">
+<title>Kortedala Torg--Runstavsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M986.86,-701.56C987.62,-699.17 987.6,-696.57 986.84,-694.19" />
+</g>
+
+<g id="edge190" class="edge">
+<title>Kortedala Torg--Runstavsgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M960.98,-701.75C960.23,-699.33 960.24,-696.69 961.04,-694.28" />
+</g>
+
+<g id="edge313" class="edge">
+<title>Runstavsgatan--Kortedala Torg</title>
+<path fill="none" stroke="black" stroke-width="2" d="M973.67,-694.36C973.84,-696.76 974.02,-699.38 974.19,-701.77" />
+</g>
+
+<g id="node101" class="node">
+<title>Nym&#229;negatan</title>
+<g id="a_node101"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005120000" ns0:title="Nym&#229;negatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005120000" title="Nym&#229;negatan">
+<polygon fill="cyan" stroke="black" points="1009.06,-669.73 948.81,-669.73 948.81,-653.48 1009.06,-653.48 1009.06,-669.73" />
+<text text-anchor="middle" x="978.94" y="-658.13" font-family="Times,serif" font-size="8.00">Nym&#229;negatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge142" class="edge">
+<title>Runstavsgatan--Nym&#229;negatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M988.98,-677.48C989.68,-675.06 989.67,-672.45 988.87,-670.02" />
+</g>
+
+<g id="edge191" class="edge">
+<title>Runstavsgatan--Nym&#229;negatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M963.15,-677.52C962.33,-675.07 962.33,-672.41 963.04,-669.97" />
+</g>
+
+<g id="edge312" class="edge">
+<title>Nym&#229;negatan--Runstavsgatan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M976.89,-670.09C976.3,-672.5 975.67,-675.12 975.09,-677.52" />
+</g>
+
+<g id="node102" class="node">
+<title>Bev&#228;ringsgatan</title>
+<g id="a_node102"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001450000" ns0:title="Bev&#228;ringsgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001450000" title="Bev&#228;ringsgatan">
+<polygon fill="cyan" stroke="black" points="1008.51,-645.48 943.01,-645.48 943.01,-629.23 1008.51,-629.23 1008.51,-645.48" />
+<text text-anchor="middle" x="975.76" y="-633.88" font-family="Times,serif" font-size="8.00">Bev&#228;ringsgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge143" class="edge">
+<title>Nym&#229;negatan--Bev&#228;ringsgatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M990.24,-653.12C991.02,-650.74 991.03,-648.16 990.32,-645.78" />
+</g>
+
+<g id="edge192" class="edge">
+<title>Nym&#229;negatan--Bev&#228;ringsgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M964.38,-653.19C963.68,-650.85 963.67,-648.32 964.41,-645.97" />
+</g>
+
+<g id="edge311" class="edge">
+<title>Bev&#228;ringsgatan--Nym&#229;negatan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M976.87,-645.83C977.19,-648.24 977.53,-650.85 977.84,-653.25" />
+</g>
+
+<g id="node103" class="node">
+<title>Kviberg</title>
+<g id="a_node103"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004140000" ns0:title="Kviberg" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004140000" title="Kviberg">
+<polygon fill="cyan" stroke="black" points="990.73,-621.21 949.23,-621.21 949.23,-604.96 990.73,-604.96 990.73,-621.21" />
+<text text-anchor="middle" x="969.98" y="-609.61" font-family="Times,serif" font-size="8.00">Kviberg</text>
+</a>
+</g>
+</g>
+
+<g id="edge144" class="edge">
+<title>Bev&#228;ringsgatan--Kviberg</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M985.8,-628.75C986.52,-626.45 986.53,-623.97 985.9,-621.67" />
+</g>
+
+<g id="edge193" class="edge">
+<title>Bev&#228;ringsgatan--Kviberg</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M959.89,-628.91C959.2,-626.49 959.21,-623.88 960.02,-621.46" />
+</g>
+
+<g id="edge310" class="edge">
+<title>Kviberg--Bev&#228;ringsgatan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M972,-621.57C972.58,-623.98 973.2,-626.59 973.77,-628.99" />
+</g>
+
+<g id="node104" class="node">
+<title>Bellevue</title>
+<g id="a_node104"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001310000" ns0:title="Bellevue" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001310000" title="Bellevue">
+<polygon fill="cyan" stroke="black" points="988.06,-596.94 943.56,-596.94 943.56,-580.69 988.06,-580.69 988.06,-596.94" />
+<text text-anchor="middle" x="965.81" y="-585.34" font-family="Times,serif" font-size="8.00">Bellevue</text>
+</a>
+</g>
+</g>
+
+<g id="edge145" class="edge">
+<title>Kviberg--Bellevue</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M980.76,-604.66C981.58,-602.21 981.58,-599.54 980.83,-597.1" />
+</g>
+
+<g id="edge194" class="edge">
+<title>Kviberg--Bellevue</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M954.92,-604.65C954.22,-602.26 954.23,-599.67 955.02,-597.27" />
+</g>
+
+<g id="edge309" class="edge">
+<title>Bellevue--Kviberg</title>
+<path fill="none" stroke="black" stroke-width="2" d="M967.27,-597.3C967.68,-599.71 968.13,-602.33 968.55,-604.72" />
+</g>
+
+<g id="edge146" class="edge">
+<title>Bellevue--SKF</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M962.63,-580.41C954.92,-572.56 935.41,-569.7 924.62,-574.35" />
+</g>
+
+<g id="edge195" class="edge">
+<title>Bellevue--SKF</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M958.32,-597.44C947.54,-602 928.22,-599.17 920.5,-591.39" />
+</g>
+
+<g id="edge147" class="edge">
+<title>SKF--Gamlestads Torg</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M913.4,-574.33C904.39,-566.31 882.03,-562.42 868.82,-565.89" />
+</g>
+
+<g id="edge196" class="edge">
+<title>SKF--Gamlestads Torg</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M901.56,-580.66C899.12,-580.31 896.52,-579.94 893.85,-579.55" />
+</g>
+
+<g id="edge308" class="edge">
+<title>SKF--Bellevue</title>
+<path fill="none" stroke="black" stroke-width="2" d="M933.16,-584.85C936.36,-585.24 939.79,-585.66 943.18,-586.07" />
+</g>
+
+<g id="edge149" class="edge">
+<title>Ejdergatan--Redbergsplatsen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M920.46,-541.63C918.8,-539.3 916.52,-536.85 913.96,-534.55" />
+</g>
+
+<g id="edge223" class="edge">
+<title>Ejdergatan--Redbergsplatsen</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M901.73,-541.84C899.08,-539.48 896.7,-536.95 894.99,-534.55" />
+</g>
+
+<g id="edge337" class="edge">
+<title>Chalmers--Korsv&#228;gen</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M788.17,-316.01C796.43,-325.03 809.36,-339.14 817.59,-348.12" />
+</g>
+
+<g id="node108" class="node">
+<title>Wavrinskys Plats</title>
+<g id="a_node108"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007340000" ns0:title="Wavrinskys Plats" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014007340000" title="Wavrinskys Plats">
+<polygon fill="white" stroke="black" points="748.93,-298.26 678.18,-298.26 678.18,-282.01 748.93,-282.01 748.93,-298.26" />
+<text text-anchor="middle" x="713.56" y="-286.66" font-family="Times,serif" font-size="8.00">Wavrinskys Plats</text>
+</a>
+</g>
+</g>
+
+<g id="edge157" class="edge">
+<title>Chalmers--Wavrinskys Plats</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M781.06,-298.88C778.59,-272.95 732.74,-260.85 717.46,-281.75" />
+</g>
+
+<g id="edge204" class="edge">
+<title>Chalmers--Wavrinskys Plats</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M776.37,-315.91C761.02,-336.75 715.18,-324.59 712.81,-298.62" />
+</g>
+
+<g id="edge231" class="edge">
+<title>Chalmers--Wavrinskys Plats</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M756.78,-314.31C741.8,-312.72 723.97,-306.38 716.69,-298.75" />
+</g>
+
+<g id="edge263" class="edge">
+<title>Chalmers--Kapellplatsen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M765.56,-316.06C763.76,-318.54 762.26,-321.22 761.35,-323.7" />
+</g>
+
+<g id="edge262" class="edge">
+<title>Wavrinskys Plats--Chalmers</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M746.55,-298.7C749.97,-299.58 753.39,-300.47 756.67,-301.32" />
+</g>
+
+<g id="edge336" class="edge">
+<title>Wavrinskys Plats--Chalmers</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M749.16,-285.43C760.66,-288.27 771.82,-293.21 777.2,-298.85" />
+</g>
+
+<g id="node109" class="node">
+<title>Medicinaregatan</title>
+<g id="a_node109"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004800000" ns0:title="Medicinaregatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004800000" title="Medicinaregatan">
+<polygon fill="white" stroke="black" points="720.75,-273.99 650.75,-273.99 650.75,-257.74 720.75,-257.74 720.75,-273.99" />
+<text text-anchor="middle" x="685.75" y="-262.39" font-family="Times,serif" font-size="8.00">Medicinaregatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge158" class="edge">
+<title>Wavrinskys Plats--Medicinaregatan</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M718.35,-281.94C719.21,-279.3 719.43,-276.7 719.14,-274.24" />
+</g>
+
+<g id="edge205" class="edge">
+<title>Wavrinskys Plats--Medicinaregatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M680.15,-281.54C679.9,-279.23 680.11,-276.79 680.88,-274.31" />
+</g>
+
+<g id="edge232" class="edge">
+<title>Wavrinskys Plats--Medicinaregatan</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M693.62,-281.63C691.12,-279.27 688.9,-276.75 687.33,-274.36" />
+</g>
+
+<g id="edge335" class="edge">
+<title>Medicinaregatan--Wavrinskys Plats</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M705.69,-274.36C708.19,-276.72 710.41,-279.25 711.98,-281.63" />
+</g>
+
+<g id="edge159" class="edge">
+<title>Medicinaregatan--Sahlgrenska Huvudentr&#233;</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M705.59,-257.24C706.58,-254.89 706.47,-252.35 705.27,-250.01" />
+</g>
+
+<g id="edge206" class="edge">
+<title>Medicinaregatan--Sahlgrenska Huvudentr&#233;</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M666.79,-257.51C665.5,-255.04 665.43,-252.35 666.57,-249.89" />
+</g>
+
+<g id="edge233" class="edge">
+<title>Medicinaregatan--Sahlgrenska Huvudentr&#233;</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M679.5,-257.51C679.14,-255.08 679.18,-252.42 679.61,-249.99" />
+</g>
+
+<g id="edge160" class="edge">
+<title>Sahlgrenska Huvudentr&#233;--Linn&#233;platsen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M656.06,-250.2C633.03,-256.76 601.53,-265.73 578.88,-272.18" />
+</g>
+
+<g id="edge207" class="edge">
+<title>Sahlgrenska Huvudentr&#233;--Botaniska Tr&#228;dg&#229;rden</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M668.79,-232.98C645.46,-229.87 605.16,-234.22 588.09,-242.46" />
+</g>
+
+<g id="edge234" class="edge">
+<title>Sahlgrenska Huvudentr&#233;--Botaniska Tr&#228;dg&#229;rden</title>
+<path fill="none" stroke="purple" stroke-width="2" d="M638.46,-245.84C633.4,-246.29 628.27,-246.75 623.26,-247.19" />
+</g>
+
+<g id="edge334" class="edge">
+<title>Sahlgrenska Huvudentr&#233;--Medicinaregatan</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M692.52,-249.95C692.88,-252.37 692.84,-255.03 692.41,-257.46" />
+</g>
+
+<g id="edge169" class="edge">
+<title>Nordstan--Frihamnen</title>
+<path fill="none" stroke="orange" stroke-width="2" d="M716.1,-500.92C742.85,-511.86 788.94,-530.7 815.73,-541.65" />
+</g>
+
+<g id="node112" class="node">
+<title>Komettorget</title>
+<g id="a_node112"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003940000" ns0:title="Komettorget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003940000" title="Komettorget">
+<polygon fill="cyan" stroke="black" points="1231.59,-711.56 1175.84,-711.56 1175.84,-695.31 1231.59,-695.31 1231.59,-711.56" />
+<text text-anchor="middle" x="1203.71" y="-699.96" font-family="Times,serif" font-size="8.00">Komettorget</text>
+</a>
+</g>
+</g>
+
+<g id="node113" class="node">
+<title>Rymdtorget Sp&#229;rvagn</title>
+<g id="a_node113"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005531000" ns0:title="Rymdtorget Sp&#229;rvagn" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005531000" title="Rymdtorget Sp&#229;rvagn">
+<polygon fill="cyan" stroke="black" points="1228.68,-738.33 1143.68,-738.33 1143.68,-722.08 1228.68,-722.08 1228.68,-738.33" />
+<text text-anchor="middle" x="1186.18" y="-726.73" font-family="Times,serif" font-size="8.00">Rymdtorget Sp&#229;rvagn</text>
+</a>
+</g>
+</g>
+
+<g id="edge184" class="edge">
+<title>Komettorget--Rymdtorget Sp&#229;rvagn</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M1190.14,-711.89C1187.93,-715.02 1186.08,-718.54 1185.1,-721.69" />
+</g>
+
+<g id="edge319" class="edge">
+<title>Rymdtorget Sp&#229;rvagn--Komettorget</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1199.75,-721.76C1201.97,-718.62 1203.81,-715.1 1204.79,-711.95" />
+</g>
+
+<g id="node114" class="node">
+<title>Teleskopgatan</title>
+<g id="a_node114"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006680000" ns0:title="Teleskopgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014006680000" title="Teleskopgatan">
+<polygon fill="cyan" stroke="black" points="1179.54,-762.59 1118.54,-762.59 1118.54,-746.34 1179.54,-746.34 1179.54,-762.59" />
+<text text-anchor="middle" x="1149.04" y="-750.99" font-family="Times,serif" font-size="8.00">Teleskopgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge185" class="edge">
+<title>Rymdtorget Sp&#229;rvagn--Teleskopgatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M1160.93,-738.73C1157.71,-741.05 1154.78,-743.53 1152.58,-745.88" />
+</g>
+
+<g id="edge318" class="edge">
+<title>Teleskopgatan--Rymdtorget Sp&#229;rvagn</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1174.29,-745.94C1177.51,-743.62 1180.44,-741.15 1182.63,-738.8" />
+</g>
+
+<g id="node115" class="node">
+<title>Galileis Gata</title>
+<g id="a_node115"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002630000" ns0:title="Galileis Gata" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002630000" title="Galileis Gata">
+<polygon fill="cyan" stroke="black" points="1096.24,-776.28 1036.74,-776.28 1036.74,-760.03 1096.24,-760.03 1096.24,-776.28" />
+<text text-anchor="middle" x="1066.49" y="-764.68" font-family="Times,serif" font-size="8.00">Galileis Gata</text>
+</a>
+</g>
+</g>
+
+<g id="edge186" class="edge">
+<title>Teleskopgatan--Galileis Gata</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M1118.17,-752.98C1106.45,-754.43 1093.53,-756.85 1083.54,-759.56" />
+</g>
+
+<g id="edge317" class="edge">
+<title>Galileis Gata--Teleskopgatan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1096.42,-769.75C1108.41,-768.32 1121.79,-765.83 1132.05,-763.04" />
+</g>
+
+<g id="edge187" class="edge">
+<title>Galileis Gata--Januarigatan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M1048.66,-759.61C1041.59,-757.97 1033.27,-756.65 1025.4,-755.86" />
+</g>
+
+<g id="edge188" class="edge">
+<title>Januarigatan--Allhelgonakyrkan</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M995.91,-750.06C994.51,-747.65 992.49,-745.08 990.18,-742.71" />
+</g>
+
+<g id="edge316" class="edge">
+<title>Januarigatan--Galileis Gata</title>
+<path fill="none" stroke="black" stroke-width="2" d="M1014.74,-767.2C1021.33,-768.72 1029.01,-769.98 1036.4,-770.78" />
+</g>
+
+<g id="edge264" class="edge">
+<title>Kapellplatsen--Vasaplatsen</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M752.94,-340.54C745.32,-352.66 736.39,-374.68 734.45,-386.81" />
+</g>
+
+<g id="edge203" class="edge">
+<title>Kapellplatsen--Chalmers</title>
+<path fill="none" stroke="brown" stroke-width="2" d="M776.84,-323.51C778.64,-321.03 780.14,-318.35 781.05,-315.87" />
+</g>
+
+<g id="edge293" class="edge">
+<title>Sannaplan--Mariaplan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M414.84,-299.4C415.18,-301.78 416,-304.35 417.12,-306.72" />
+</g>
+
+<g id="edge330" class="edge">
+<title>Sannaplan--Mariaplan</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M428.58,-299.29C429.71,-301.65 430.54,-304.22 430.9,-306.6" />
+</g>
+
+<g id="node119" class="node">
+<title>Sandarna</title>
+<g id="a_node119"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005660000" ns0:title="Sandarna" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005660000" title="Sandarna">
+<polygon fill="white" stroke="black" points="385.17,-284.99 339.17,-284.99 339.17,-268.74 385.17,-268.74 385.17,-284.99" />
+<text text-anchor="middle" x="362.17" y="-273.39" font-family="Times,serif" font-size="8.00">Sandarna</text>
+</a>
+</g>
+</g>
+
+<g id="edge258" class="edge">
+<title>Sannaplan--Sandarna</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M415.22,-282.38C409.8,-275.88 397.14,-270.84 385.52,-269.33" />
+</g>
+
+<g id="edge292" class="edge">
+<title>Sandarna--Sannaplan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M364.64,-285.42C369.81,-291.62 381.56,-296.5 392.72,-298.24" />
+</g>
+
+<g id="edge329" class="edge">
+<title>Sandarna--Sannaplan</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M385.39,-282.75C387.89,-283.39 390.44,-284.03 392.95,-284.67" />
+</g>
+
+<g id="node120" class="node">
+<title>Kungssten</title>
+<g id="a_node120"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004100000" ns0:title="Kungssten" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004100000" title="Kungssten">
+<polygon fill="white" stroke="black" points="336.3,-260.73 287.3,-260.73 287.3,-244.48 336.3,-244.48 336.3,-260.73" />
+<text text-anchor="middle" x="311.8" y="-249.13" font-family="Times,serif" font-size="8.00">Kungssten</text>
+</a>
+</g>
+</g>
+
+<g id="edge259" class="edge">
+<title>Sandarna--Kungssten</title>
+<path fill="none" stroke="cyan" stroke-width="2" d="M361.76,-268.45C358.21,-261.17 347.49,-253.88 336.8,-250.03" />
+</g>
+
+<g id="edge291" class="edge">
+<title>Kungssten--Sandarna</title>
+<path fill="none" stroke="black" stroke-width="2" d="M312.21,-261.02C315.93,-268.64 327.51,-276.28 338.69,-279.96" />
+</g>
+
+<g id="edge328" class="edge">
+<title>Kungssten--Sandarna</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M329.7,-261.22C334.45,-263.51 339.58,-265.98 344.33,-268.27" />
+</g>
+
+<g id="node121" class="node">
+<title>Doktor Sydows Gata</title>
+<g id="a_node121"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002100000" ns0:title="Doktor Sydows Gata" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002100000" title="Doktor Sydows Gata">
+<polygon fill="white" stroke="black" points="825.92,-240.37 742.42,-240.37 742.42,-224.12 825.92,-224.12 825.92,-240.37" />
+<text text-anchor="middle" x="784.17" y="-228.77" font-family="Times,serif" font-size="8.00">Doktor Sydows Gata</text>
+</a>
+</g>
+</g>
+
+<g id="node122" class="node">
+<title>Doktor Fries Torg</title>
+<g id="a_node122"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002090000" ns0:title="Doktor Fries Torg" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014002090000" title="Doktor Fries Torg">
+<polygon fill="white" stroke="black" points="815.46,-264.65 741.71,-264.65 741.71,-248.4 815.46,-248.4 815.46,-264.65" />
+<text text-anchor="middle" x="778.59" y="-253.05" font-family="Times,serif" font-size="8.00">Doktor Fries Torg</text>
+</a>
+</g>
+</g>
+
+<g id="edge260" class="edge">
+<title>Doktor Sydows Gata--Doktor Fries Torg</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M782.22,-240.74C781.66,-243.14 781.06,-245.76 780.51,-248.16" />
+</g>
+
+<g id="edge261" class="edge">
+<title>Doktor Fries Torg--Wavrinskys Plats</title>
+<path fill="none" stroke="lightgreen" stroke-width="2" d="M762.18,-265C752.39,-270.06 740.01,-276.46 730.19,-281.54" />
+</g>
+
+<g id="node123" class="node">
+<title>Saltholmen</title>
+<g id="a_node123"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005630000" ns0:title="Saltholmen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005630000" title="Saltholmen">
+<polygon fill="white" stroke="black" points="51.58,-106.71 -0.42,-106.71 -0.42,-90.46 51.58,-90.46 51.58,-106.71" />
+<text text-anchor="middle" x="25.58" y="-95.11" font-family="Times,serif" font-size="8.00">Saltholmen</text>
+</a>
+</g>
+</g>
+
+<g id="node124" class="node">
+<title>Roddf&#246;reningen</title>
+<g id="a_node124"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005480000" ns0:title="Roddf&#246;reningen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005480000" title="Roddf&#246;reningen">
+<polygon fill="white" stroke="black" points="89.46,-130.97 22.46,-130.97 22.46,-114.72 89.46,-114.72 89.46,-130.97" />
+<text text-anchor="middle" x="55.96" y="-119.37" font-family="Times,serif" font-size="8.00">Roddf&#246;reningen</text>
+</a>
+</g>
+</g>
+
+<g id="edge283" class="edge">
+<title>Saltholmen--Roddf&#246;reningen</title>
+<path fill="none" stroke="black" stroke-width="2" d="M27.59,-106.93C29.33,-109.35 31.79,-111.92 34.55,-114.31" />
+</g>
+
+<g id="edge320" class="edge">
+<title>Saltholmen--Roddf&#246;reningen</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M47.08,-107.19C49.75,-109.52 52.14,-112.02 53.86,-114.37" />
+</g>
+
+<g id="node125" class="node">
+<title>L&#229;ngedrag</title>
+<g id="a_node125"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004590000" ns0:title="L&#229;ngedrag" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004590000" title="L&#229;ngedrag">
+<polygon fill="white" stroke="black" points="65.83,-162.69 15.33,-162.69 15.33,-146.44 65.83,-146.44 65.83,-162.69" />
+<text text-anchor="middle" x="40.58" y="-151.09" font-family="Times,serif" font-size="8.00">L&#229;ngedrag</text>
+</a>
+</g>
+</g>
+
+<g id="edge284" class="edge">
+<title>Roddf&#246;reningen--L&#229;ngedrag</title>
+<path fill="none" stroke="black" stroke-width="2" d="M44.55,-131.45C41.73,-136.05 39.43,-141.62 38.61,-146.19" />
+</g>
+
+<g id="edge321" class="edge">
+<title>Roddf&#246;reningen--L&#229;ngedrag</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M57.91,-131.34C57.06,-135.92 54.76,-141.47 51.94,-146.04" />
+</g>
+
+<g id="node126" class="node">
+<title>Hinsholmen</title>
+<g id="a_node126"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003170000" ns0:title="Hinsholmen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003170000" title="Hinsholmen">
+<polygon fill="white" stroke="black" points="128.19,-155.24 73.94,-155.24 73.94,-138.99 128.19,-138.99 128.19,-155.24" />
+<text text-anchor="middle" x="101.06" y="-143.64" font-family="Times,serif" font-size="8.00">Hinsholmen</text>
+</a>
+</g>
+</g>
+
+<g id="edge285" class="edge">
+<title>L&#229;ngedrag--Hinsholmen</title>
+<path fill="none" stroke="black" stroke-width="2" d="M65.99,-158.13C71.64,-157.65 77.52,-156.81 82.82,-155.73" />
+</g>
+
+<g id="edge322" class="edge">
+<title>L&#229;ngedrag--Hinsholmen</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M58.61,-145.99C63.28,-145.03 68.42,-144.26 73.45,-143.75" />
+</g>
+
+<g id="node127" class="node">
+<title>K&#228;ringberget</title>
+<g id="a_node127"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004230000" ns0:title="K&#228;ringberget" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004230000" title="K&#228;ringberget">
+<polygon fill="white" stroke="black" points="194.22,-163.69 136.22,-163.69 136.22,-147.44 194.22,-147.44 194.22,-163.69" />
+<text text-anchor="middle" x="165.22" y="-152.09" font-family="Times,serif" font-size="8.00">K&#228;ringberget</text>
+</a>
+</g>
+</g>
+
+<g id="edge286" class="edge">
+<title>Hinsholmen--K&#228;ringberget</title>
+<path fill="none" stroke="black" stroke-width="2" d="M118.81,-155.69C124.08,-156.86 129.99,-157.82 135.79,-158.46" />
+</g>
+
+<g id="edge323" class="edge">
+<title>Hinsholmen--K&#228;ringberget</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M128.4,-144C134.77,-144.63 141.41,-145.65 147.26,-146.94" />
+</g>
+
+<g id="node128" class="node">
+<title>Tranered</title>
+<g id="a_node128"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001340000" ns0:title="Tranered" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014001340000" title="Tranered">
+<polygon fill="white" stroke="black" points="229.51,-187.94 185.01,-187.94 185.01,-171.69 229.51,-171.69 229.51,-187.94" />
+<text text-anchor="middle" x="207.26" y="-176.34" font-family="Times,serif" font-size="8.00">Tranered</text>
+</a>
+</g>
+</g>
+
+<g id="edge287" class="edge">
+<title>K&#228;ringberget--Tranered</title>
+<path fill="none" stroke="black" stroke-width="2" d="M169.58,-164.05C173.37,-167.6 179.01,-171.46 184.79,-174.62" />
+</g>
+
+<g id="edge324" class="edge">
+<title>K&#228;ringberget--Tranered</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M193,-163.9C196.81,-166.31 200.3,-168.9 202.91,-171.35" />
+</g>
+
+<g id="node129" class="node">
+<title>Hagen</title>
+<g id="a_node129"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003060000" ns0:title="Hagen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014003060000" title="Hagen">
+<polygon fill="white" stroke="black" points="251.21,-212.21 214.21,-212.21 214.21,-195.96 251.21,-195.96 251.21,-212.21" />
+<text text-anchor="middle" x="232.71" y="-200.61" font-family="Times,serif" font-size="8.00">Hagen</text>
+</a>
+</g>
+</g>
+
+<g id="edge288" class="edge">
+<title>Tranered--Hagen</title>
+<path fill="none" stroke="black" stroke-width="2" d="M208.22,-188.15C209.63,-190.58 211.7,-193.18 214.07,-195.6" />
+</g>
+
+<g id="edge325" class="edge">
+<title>Tranered--Hagen</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M225.81,-188.22C228.15,-190.6 230.21,-193.16 231.63,-195.57" />
+</g>
+
+<g id="node130" class="node">
+<title>Nya Varvsall&#233;n</title>
+<g id="a_node130"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005100000" ns0:title="Nya Varvsall&#233;n" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014005100000" title="Nya Varvsall&#233;n">
+<polygon fill="white" stroke="black" points="310.72,-236.47 245.22,-236.47 245.22,-220.22 310.72,-220.22 310.72,-236.47" />
+<text text-anchor="middle" x="277.97" y="-224.87" font-family="Times,serif" font-size="8.00">Nya Varvsall&#233;n</text>
+</a>
+</g>
+</g>
+
+<g id="edge289" class="edge">
+<title>Hagen--Nya Varvsall&#233;n</title>
+<path fill="none" stroke="black" stroke-width="2" d="M237.74,-212.65C240.48,-215 244.07,-217.49 247.98,-219.81" />
+</g>
+
+<g id="edge326" class="edge">
+<title>Hagen--Nya Varvsall&#233;n</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M251.59,-206.87C259.44,-210.35 267.88,-215.39 273.12,-219.94" />
+</g>
+
+<g id="edge290" class="edge">
+<title>Nya Varvsall&#233;n--Kungssten</title>
+<path fill="none" stroke="black" stroke-width="2" d="M280.79,-236.85C282.76,-239.22 285.45,-241.72 288.42,-244.06" />
+</g>
+
+<g id="edge327" class="edge">
+<title>Nya Varvsall&#233;n--Kungssten</title>
+<path fill="none" stroke="pink" stroke-width="2" d="M301.15,-236.74C304.27,-239.17 307.07,-241.78 309.09,-244.24" />
+</g>
+
+<g id="node132" class="node">
+<title>Majvallen</title>
+<g id="a_node132"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004700000" ns0:title="Majvallen" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014004700000" title="Majvallen">
+<polygon fill="white" stroke="black" points="547.18,-347.36 498.93,-347.36 498.93,-331.11 547.18,-331.11 547.18,-347.36" />
+<text text-anchor="middle" x="523.05" y="-335.76" font-family="Times,serif" font-size="8.00">Majvallen</text>
+</a>
+</g>
+</g>
+
+<g id="edge296" class="edge">
+<title>Ekedal--Majvallen</title>
+<path fill="none" stroke="black" stroke-width="2" d="M509.15,-321.9C511.41,-324.72 513.93,-327.86 516.2,-330.69" />
+</g>
+
+<g id="node133" class="node">
+<title>Fj&#228;llgatan</title>
+<g id="a_node133"><a ns0:href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012412000" ns0:title="Fj&#228;llgatan" href="https://avgangstavla.vasttrafik.se/?source=vasttrafikse-stopareadetailspage&amp;stopAreaGid=9021014012412000" title="Fj&#228;llgatan">
+<polygon fill="white" stroke="black" points="514.7,-379.81 466.45,-379.81 466.45,-363.56 514.7,-363.56 514.7,-379.81" />
+<text text-anchor="middle" x="490.57" y="-368.21" font-family="Times,serif" font-size="8.00">Fj&#228;llgatan</text>
+</a>
+</g>
+</g>
+
+<g id="edge297" class="edge">
+<title>Majvallen--Fj&#228;llgatan</title>
+<path fill="none" stroke="black" stroke-width="2" d="M514.52,-347.76C509.71,-352.57 503.72,-358.55 498.94,-363.33" />
+</g>
+
+<g id="edge298" class="edge">
+<title>Fj&#228;llgatan--Stigbergstorget</title>
+<path fill="none" stroke="black" stroke-width="2" d="M482.22,-380.11C469.59,-392.84 445.78,-416.85 433.07,-429.66" />
+</g>
+</g>
+</svg>
